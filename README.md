@@ -8,7 +8,9 @@ con las versiones digitalizadas disponibles en los repositorios que conservan lo
 
 Las transcripciones disponibles son:
 
-Alfonso X, <em>Estoria de España</em> (Versión amplificada, retraducida del gallego-portugués al castellano, de Ramiro I a Vermudo III), Madrid, Biblioteca Nacional de España, ms. 643
-Alfonso X, <em>Siete Partidas</em>: <em>Primera Partida</em>, Toledo, Biblioteca Capitular de Toledo, ms. 43-13
-Pedro Alfonso, <em>Crónica de 1344</em> (Q1), Madrid, Biblioteca Nacional de España, ms 10814
-Pedro Alfonso, <em>Crónica de 1344</em> (Q2), Madrid, Biblioteca Nacional de España, ms 10815
+<ol>
+<li>Alfonso X, <em>Estoria de España</em> (Versión amplificada, retraducida del gallego-portugués al castellano, de Ramiro I a Vermudo III), Madrid, Biblioteca Nacional de España, ms. 643</li>
+<li>Alfonso X, <em>Siete Partidas</em>: <em>Primera Partida</em>, Toledo, Biblioteca Capitular de Toledo, ms. 43-13</li>
+<li>Pedro Alfonso, <em>Crónica de 1344</em> (Q1), Madrid, Biblioteca Nacional de España, ms 10814</li>
+<li>Pedro Alfonso, <em>Crónica de 1344</em> (Q2), Madrid, Biblioteca Nacional de España, ms 10815</li>
+</ol>
