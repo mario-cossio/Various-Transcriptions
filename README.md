@@ -2,7 +2,7 @@
 
 Este repositorio contiene varias transcripciones semi-paleográficas de manuscritos castellanos realizadas según el [sistema de transcripción](http://www.hispanicseminary.org/manual-en.htm) del Hispanic Seminary of Medieval Studies (que, eventualmente, serán recogidas en el [Old Spanish Textual Archive](http://osta.oldspanishtextualarchive.org/)).
 
-Se trata de transcripciones en proceso de revisión que contienen numerosos errores y, por tanto, deben solo ser usadas para consultas, pero no como fuentes fidedignas del contenido de los testimonios, que deberá siempre ser verificado con las versiones digitalizadas disponibles en los repositorios que conservan los manuscritos.
+Se trata de transcripciones en proceso de revisión que contienen numerosos errores y, por tanto, deben solo ser usadas para consultas, pero no como fuentes fidedignas del contenido de los testimonios, que deberá siempre ser verificado con las versiones digitalizadas disponibles en las bibliotecas que los conservan.
 
 Las transcripciones disponibles son:
 
