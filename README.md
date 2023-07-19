@@ -18,8 +18,8 @@ Las transcripciones disponibles son:
 Citar como:
 
 <ol>
-<li>Cossío Olavide, Mario (2023). «<em>Estoria de España</em> (Biblioteca Nacional de España, ms. 643), transcripción semipaleográfica». <em>Transcripciones varias</em>, (https://github.com/mario-cossio/Transcripciones-varias)[https://github.com/mario-cossio/Transcripciones-varias], fecha de consulta.</li>
-<li>Cossío Olavide, Mario (2023). «<em>Primera Partida</em> (Biblioteca Capitular de Toledo, ms. 43-13), transcripción semipaleográfica». <em>Transcripciones varias</em>, (https://github.com/mario-cossio/Transcripciones-varias)[https://github.com/mario-cossio/Transcripciones-varias], fecha de consulta.</li>
-<li>Cossío Olavide, Mario (2023). «<em>Crónica de 1344</em>, Q1 (Biblioteca Nacional de España, ms. 10814), transcripción semipaleográfica». <em>Transcripciones varias</em>, (https://github.com/mario-cossio/Transcripciones-varias)[https://github.com/mario-cossio/Transcripciones-varias], fecha de consulta.</li>
-<li>Cossío Olavide, Mario (2023). «<em>Crónica de 1344</em>, Q2 (Biblioteca Nacional de España, ms. 10815), transcripción semipaleográfica». <em>Transcripciones varias</em>, (https://github.com/mario-cossio/Transcripciones-varias)[https://github.com/mario-cossio/Transcripciones-varias], fecha de consulta.</li>
+<li>Cossío Olavide, Mario (2023). «<em>Estoria de España</em> (Biblioteca Nacional de España, ms. 643), transcripción semipaleográfica». <em>Transcripciones varias</em>, https://github.com/mario-cossio/Transcripciones-varias, fecha de consulta.</li>
+<li>Cossío Olavide, Mario (2023). «<em>Primera Partida</em> (Biblioteca Capitular de Toledo, ms. 43-13), transcripción semipaleográfica». <em>Transcripciones varias</em>, https://github.com/mario-cossio/Transcripciones-varias, fecha de consulta.</li>
+<li>Cossío Olavide, Mario (2023). «<em>Crónica de 1344</em>, Q1 (Biblioteca Nacional de España, ms. 10814), transcripción semipaleográfica». <em>Transcripciones varias</em>, https://github.com/mario-cossio/Transcripciones-varias, fecha de consulta.</li>
+<li>Cossío Olavide, Mario (2023). «<em>Crónica de 1344</em>, Q2 (Biblioteca Nacional de España, ms. 10815), transcripción semipaleográfica». <em>Transcripciones varias</em>, https://github.com/mario-cossio/Transcripciones-varias, fecha de consulta.</li>
 </ol>
