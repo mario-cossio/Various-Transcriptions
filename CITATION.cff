@@ -1,0 +1,9 @@
+cff-version: 1.1.0
+message: "Si usa estas transcripciones, por favor, cítelas usando las indicaciones del archivo README.md."
+authors:
+  - family-names: Mario
+    given-names: Cossío Olavide
+    orcid: https://orcid.org/0000-0002-1447-3891
+title: «[Título de la obra], transcripción semipaleográfica», Transcripciones varias.
+version: 0.1
+date-released: 2023-07-19
