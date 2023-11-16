@@ -1,9 +1,9 @@
 {RMK: .}
-{RMK: Alfonso X, rey de Castilla y LeÃ³n.}
+{RMK: Alfonso X, rey de Castilla y Le—n.}
 {RMK: Siete Partidas.}
 {RMK:.}
 {RMK: Toledo | Biblioteca Capitular de Toledo | 43-13.}
-{RMK: Mario Antonio CossÃ­o Olavide}
+{RMK: Mario Antonio Coss’o Olavide}
 [fol. 1v]
 {CB2.
 {RUB. Tit<u>lo p<r><<i>>m<er>o q<ue> fabla delas leyes}
@@ -2992,7 +2992,7 @@ q<ue> assi mismos Judga<n> era<n> emendados de dios &
 no<n> era<n> <con>depnados en la pena deste q<ue> sse da a
 (a) entender por los peccados q<ue> en<e>l oujessen fe-chos}
 [fol. 23v]
-Â¶Â¶Â¶Â¶
+¦¦¦¦
 {CB2.
 E la epistola acabada deue<n> dezjr vnas
 palabras ca<n>tando q<ue> es dich<o> Responsso q<ue> dixo ot<r><<o>>
@@ -3130,24 +3130,291 @@ bras q<ue> sse ffaze<n> con<e>l. Ca fazjendo sse cada
 vna assi com<m>o <con>viene ta<n> bie<n> el obrador com<m>o}
 [fol. 24v]
 {CB2.
-}
+el q<ue> ssobra q<ue> obra luego a e<n> ssi el bie<n>. & esto es
+q<ue> el q<ue> ffaz la obra rrec'ibe ende bondat & el q<ue>
+ssobr<e> ssi q<u><<i>>en es ffech<o> pro Ca ssin lo q<ue> es p<ro>uecho-
+so p<ar>a com<e>r & p<ar>a dar ssal<u>t & auer p<ar>a sseer tesoro p<ar>a
+g<r><<a>>nt Riq<ue>za alos q<ue>lo an abondamjent<o> q<ue> sson tr<e>s
+cosas q<ue> tiene<n> g<r><<a>>nt pro p<ar>a beujr los om<ne>s Ricos,
+vic'iosos en<e>ste mu<n>do mas ssobr<e> estos a en ssi ot<r><<o>>s
+mayor<e>s p<ro>uechos q<ue> sson muy maraujllosos. & los
+enffermos q<ue> del sson vntados faze les rreme<n>brar
+d<e>la muert<e> por q<ue> sse duela<n> de ss<us> peccados rrepi<n>-
+tiendosse & co<n>ffessando sse dellos. Ca los q<ue> sso<n> p<ar>a
+ssanar ayuda los com<m>o ssane<n> mas ayna & los q<ue>
+sson p<ar>a morir da les conorte & esffuerc'o p<ar>a q<ue>
+vayan deste mu<n>do sseg<ur>os c<r><<e>>yendo firmement<e>
+q<ue> el diablo no<n> auja poder en las ssus almas por
+q<ue> sson Repe<n>tidos & q<u><<i>>tos del mal q<ue> auja<n> ffech<o>
+& demas q<ue> sson vassallos de n<uest>ro ssen<n>or ih<es>u xp<ist>o
+& van ssagrados de ssu ssac<r><<a>>me<n>to & ljeua<n> la ssu
+carta de sseg<ur>anc'a q<ue> Rec'ibiero<n> babtismo q<u><<a>>ndo fu-
+ero<n> babtizados [%] E ot<r><<o>>ssi p<r><<i>>ujllegio de co<n>firma-
+c'io<n> q<u><<a>>ndo los co<n>firmo & ssobr<e> todo la ssen<n>al dela
+cruz q<ue> sson las ssus armas co<n> q<ue> vjnc'io al dia-
+blo & q<ue>branto todo ssu poder & alas q<u><<a>>les armas
+sson tenudos d<e>llas obedesc'er & de onrrar todas
+cosas deste mu<n>do. Onde por todas u<i><<r>>tudes q<ue> a
+e<n> ssi & por las q<ue> del Rec'ibe<n> los om<ne>s a de sseer
+muy g<r><<a>>dado & onrrado & tenjdo por muy ss<anc>ta cosa.
+{RUB. % Ley .xL<<a>>. la man<er>a de Com<m>o deu<e> sseer
+ffecha La Crisma & Conssagrada.}
+{IN2.} Conssag<r><<a>>da deu<e> ss<er> ffecha la c<r><<i>>sma co<n> g<r><<a>>nt
+onrra sseg<un>t q<ue>remos mostrar. & esto q<ue> q<u><<a>>n-
+do el ob<is>po oujer<e> <con>ssagrado el oljo p<ar>a los enfer-mos}
 {CB2.
-}
+com<m>o en<e>sta ot<r><<a>> ley dixemos & a de tornar
+dezir la ssagra d<e>la missa en aq<ue>l logar o la de-
+xo q<u><<a>>ndo come<n>c'o a ssag<r><<a>>r este olio ffasta q<ue> de
+bendic'io<n> al puello q<ue> sse deu<e> dar desta g<u><<i>>sa q<ue> q<ue>re-
+mos aq<u><<i>> mostrar. {RUB. % Ley .xLi<<a>>. com<m>o deue
+el ob<is>po dar la bendic'io<n> al pueblo.}
+{IN2.} Tornar sse deu<e> el ob<is>po cont<r><<a>> el pueblo desp<ue>s
+q<ue> oujere <con>ssagrada la missa & deu<e> bende-
+zjr los desta g<u><<i>>sa alc'a<n>do la mano diest[r]a & ssa<n>gui<n>-
+dolos co<n> ella d<e>la ssen<n>al d<e>la ss<anc>ta cruz dizjendo q<ue>
+dios los bendiga aq<ue>l ssu ffijo ih<es>u x<pist><<o>> q<ue>la antiga
+pascua q<u><<i>>so tornar en nueua & otorgue q<ue> tolljdo
+aya el cuydado d<e>la vieja leuadura q<ue> sse entien-
+de por los peccados antigos & esparga con<e>llos
+espargimje<n>to de nueua post<ur>a. por q<ue> ayan p<er>don
+& ssaluac'io<n> & los del coro an de rresponder ame<n>
+com<m>o q<ue> dios q<u><<i>>era q<ue> ssea assi ffech<o>. & desp<ue>s q<ue> el
+ob<is>po esto oujer<e> dich<o> deu<e> dar esta ot<r><<a>> bendic'io<n>
+en q<ue> rruega a dios q<ue>los q<ue> viene<n> co<n> buena volu<n>-
+tat a onrrar la fiesta dela c'ena de n<uest>ro ssen<n>or
+ih<es>u x<pist><<o>> q<ue> lieue<n> ende la gr<ac'i>a delos comeres c'ele-
+stial<e>s q<ue> dura<n> p<ar>a ssienpr<e>. & an de rresponder ot<r><<o>>
+ssi ame<n>. & esto dich<o> deu<e> el ob<is>po dezjr esta ben-
+dic'io<n> Roga<n>do a dios q<ue> por la ayuda d<e>la ssu pi-
+edat los q<u><<i>>era alinpiar d<e>las ssus ssuzjedad<e>s
+& de ss<us> peccados el q<u><<a>>l por most<r><<a>>r exe<n>plo de humjl-
+dat lauo los pies d<e>los ss<us> disc'iplos & ot<r><<o>>ssi aq<u><<i>>
+an de Responder Ame<n>. & despu<e>s deu<e> dezjr q<ue> a-
+q<ue>l les deue<n> dar la ssu gr<ac'i>a & la ssu m<er>c'ed q<ue> biue
+& rregna co<n> ssu padre pod<er>oso por ssienp<re>. & a
+esto an de rresponder ame<n>. & q<u><<a>>ndo esto fuere
+dich<o> a de alc'ar la mano & bendezjr los dizjendo}
 [fol. 25r]
 {CB2.
-}
+q<ue>la bendic'io<n> del padre & del ffijo & del ssp<irit>u ss<anc>to
+desc'enda ssobr<e> ellos & ffinca p<ar>a ssienpr<e> & ento<n>-
+ce an de rresponder ame<n>. {RUB. % Ley xl<<a>>.-
+.ij. Com<m>o sse deu<e> acabar La missa.}
+{IN2.} Acabada la bendic'io<n> sseg<un>t q<ue> auemos di-
+ch<o> deu<e> sse el ob<is>po tornar al altar &
+dezjr q<ue>la paz de dios q<ue> ssea co<n> a-
+q<ue>llos q<ue> allj sse ayuntaro<n> & los cl<er>igos an de
+Responder & co<n> el ssu sp<irit>u q<ue> sse entiende por
+la buena volu<n>tat co<n> q<ue>la diz por la u<er>tut del
+ssp<irit>u ss<anc>to. & ento<n>c'e deue<n> dezjr los del coro
+tr<e>s vezes ca<n>tando q<ue> el cordero de dios q<ue> tuel-
+le los peccados del mu<n>do nos aya m<er>c'ed. &
+esto sse da a entender por ih<es>u x<pist><<o>> q<ue> ffue blanco
+& li<n>pio & ssin ma<n>zjella a ssemeja<n>te del cordero
+q<ue> mando moyssen en la ley vieja de q<ue> ffizjesse<n>
+ssac<r><<i>>fic'io & prueua ssobr<e> la p<ro>ph<ec'i>a q<ue> dixo sseg<un>t
+ya dixemos en ot<r><<o>> logar q<ue> aduch<o> fue a la mu-
+erte & torme<n>tado assi com<m>o el cordero q<ue> tras-
+q<u><<i>>lan & ssol no<n> auje boca p<ar>a dezjr boz [%] E la
+t<er>c'era vez deue<n> deue<n> dezjr q<ue> el cordero de
+dios q<ue> tuelle los peccados del mu<n>do & les de
+paz. mas por esso no<n> sse deue<n> bessar los vnos
+a los ot<r><<o>>s por q<ue> en tal dia bessando Judas a n<uest>ro
+ssen<n>or ih<es>u x<pist><<o>> lo t<r><<a>>yo. ento<n>c'e deu<e> sse abaxar el
+ob<is>po ant<e>l altar dizjendo esto ma<n>ssamje<n>to los
+corac'on<e>s q<ue> sson costu<n>brados p<ar>a dezjr aq<ue>l dia
+& las orac'ion<e>s dichas deue<n> sse alc'ar & co<n>ssu-
+mjendo el cuerpo de n<uest>ro ssen<n>or ih<es>u xp<ist>o el ssolo
+E los eua<n>gelisteros deue<n> cobrir los pan<n>os
+blancos & todas las Reliq<u><<i>>as & las ot<r><<a>>s cosas
+q<ue> esta<n> ssobr<e> los altares. & desp<ue>s el ob<is>po a sse}
+{HD. T<itul><<o>> .iiij.}
 {CB2.
-}
+de assentar e<n> ssu ssiella & estar con<e>l cl<er>igo q<ue> dixo
+el euua<n>gelio rreuestido & desta g<u><<i>>sa sse acaba la
+missa. {RUB. % Ley .xLiij<<a>>. Com<m>o deue<n> ss<er> traydos
+Los olljos p<ar>a ssag<r><<a>>r (los) La c<r><<i>>sma.}
+{IN2.} Assenta<n>do sse el ob<is>po e<n> ssu ssiella com<m>o
+dich<o> auemos deue<n> venjr .xij. cl<er>igos de
+missa rreuestidos assi com<m>o q<u><<a>>ndo las dize<n>. & an de
+ten<er> el balssamno a g<r><<a>>nt onrra & el oljo p<ar>a ffaz<er>
+La c<r><<i>>sma. [%] E ot<r><<o>>ssi el de cathecumjnos & el
+de Neoffidos q<ue> ta<n>to q<u><<i>>er dezjr en g<r><<i>>ego com<m>o los
+q<ue> sse torna<n> de nueuo ala ffe. & deue<n> venir con<e>lla
+fasta el ob<is>po & a de ss<er> ordenada la p<ro>cessio<n> en q<ue>lo
+an de leuar desta gujsa. p<r><<i>>m<er>ament<e> dos acoli-
+tos q<ue> an vno d<e>los q<u><<a>>tro g<r><<a>>dos de q<ue> adela<n>te uos
+fablaremos [%] E estos an de t<r><<a>>er aq<ue>llas anpo-
+las q<ue> sson destos (^d) oljos q<ue> dixemos cubiertos
+de pan<n>o de ssirgo bla<n>co de g<u><<i>>sa q<ue> paresca d<e>llas
+la mediatat ala parte o esta el oljo [%] E estos
+pan<n>os co<n> q<ue>los an de cobrir deue<n> ss<er> ta<n> g<r><<a>>ndes
+q<ue> tenga<n> desdel brac'o ssiniestro tras las es-
+paldas fasta el diest<r><<o>> & an de yr assi [%] p<r><<i>>m<er>-
+ament<e> ant<e> delos (^al) acolitos q<ue> dixemos de-
+uen yr ot<r><<o>>s dos co<n> ssen<d>os c'irios q<ue> tenga<n> ca<n>-
+delas enc'endidas. & ot<r><<o>>ssi dos cl<er>igos co<n> ssen-
+das cruzes & en medio aq<ue>l q<ue> trae el olljo
+p<ar>a la c<r><<i>>sma. & desp<ue>s (^dos) dellos dos cl<er>igos
+co<n> ssendos ac'enssarios ac'enssando ent<r><<e>> estos
+aq<ue>l q<ue> t<r><<a>>he el oljo p<ar>a los cathec'umjnos en
+pos ellos vn cl<er>igo de eua<n>gelio co<n> ssu libro
+en la mano & an de yr dos ados aq<ue>llos .xij.
+cl<er>igos de missa q<ue> dixemos p<ar>a sseer testigos
+& obrador<e>s deste ffech<o>. & tras ellos dos cl<er>i-gos}
+{GL.
+Ordenadas estas cosas ssegu<n>t auemos dich<o> a el ob<is>po de bendezjr el olljo del balsamo. E la bendic'io<n> es esta en q<ue> rruega
+a dios q<ue> es obrador d<e>las cosas c'elestial<e>s & aparejador de todas las u<<i>><r>tudes q<ue> oya las ssus p<r><<e>>garias assi q<ue> aq<ue>lla suor q<ue> lloro
+de aq<ue>lla corteza de aq<ue>ll arbol bie<n> aue<n>t<ur>ado ssea rrec'ebido por muy bue<n> ungue<n>to p<ar>a faz<er> con<e>l aq<ue>lla obra q<ue> co<n>ujene & q<ue> s<anc>tigue
+& q<ue> otorgue aq<ue>lla be<n>dic'io<n> por la su piedat E q<u><<a>>ndo esto ouiere dich<o> deue dar en sen<n>al dizie<n>do tr<e>s uegadas ssobr<e> la
+anpolla del balssamo}
 [fol. 25v]
 {CB2.
-}
+de missa vestidos de ssobr<e>pelic'as ca<n>tando es-
+tos viessos e<n> loor de aq<ue>l offic'io en q<ue> Ruega
+assi a dios q<ue> el q<ue> es Redemjdor d<e>los peccador<e>s
+& Juez d<e>los muertos & esp<er>anc'a d<e>los q<ue> an a mo-
+rir q<ue> oya aq<ue>l ca<n>tar & q<ue>lo Rec'iba por bue<n> don
+de paz. Ca el t<r><<a>>he homjllosamjent<e> el ffruco
+del arbol q<ue> da lu<n>bre p<ar>a conssag<r><<a>>r & el q<ue> q<u><<i>>era q<ue>
+ssea co<n>ssag<r><<a>>do por ma<n>dado del ob<is>po q<ue> esta rreuesti-
+do ant<e>l altar esp<er>ando lo por q<ue>lo ssen<n>al d<e>la cruz
+q<ue> ssea de ffazer con<e>lla q<ue> bra<n>te el poder del diablo
+& rrenueue el ljnage doble por aq<ue>lla vnc'io<n> d<e>la
+c<r><<i>>sma q<ue> ssea melezjna ss<anc>ta & much<o> onrrada q<ue> sse
+entiende por ss<anc>ta u<er>tut & onrrada en obra & q<ue> con
+g<r><<a>>nt aleg<r><<i>>a ssea <con>ssag<r><<a>>da la ffuent<e> en q<ue> an de e-
+char aq<ue>lla c<r><<i>>sma por q<ue> ffaga ffoyr al diablo & des-
+ffaga las ss<us> obras. & q<ue> aq<ue>l q<ue> Rec'ibio carne de
+ssa<nc>ta <maria>. & nasc'io della & nos Redimjo de carre-
+ra de vida & c'ierra la muerte a los q<ue> ffueren
+vntados co<n> aq<ue>lla c<r><<i>>sma ssa<nc>ta. Assi q<ue> ssea a nos
+ffiesta onrrada por ssienp<re> aq<ue>l dia en q<ue> sse faze
+el ss<anc>to ssac<r><<a>>mento della. & esto q<ue> auemos dich<o> de-
+uen dezjr ca<n>tando por viessos q<ue> es ta<n>to com<m>o co-
+plas. & alc'a<n>do el viesso deue<n> Responder los ot<r><<o>>s
+sseg<un>t dezjmos en<e>l comje<n>c'o d<e>los viessos Roga<n>-
+do a dios q<ue> el q<ue> es rredemjdor d<e>los peccador<e>s &
+juez d<e>los muertos & esp<er>anc'a d<e>los q<ue> an de morir
+q<ue> oya aq<ue>l ca<n>tar & q<ue>lo rrec'iba<n> p<er>don bueno de paz
+E ent<r><<e>> ta<n>to deue<n> estar ant<e>l altar ordenadamjent<e>
+& el ostario & el leedor & el ssoc'ista & el acolito &
+el ssubdiacono de q<ue> uos most<r><<a>>mos adela<n>te del o-
+ffic'io q<ue> tiene cada vno dellos en la egl<es>ia q<ue> ha<n>
+assi nonbr<e>. & estos an a Rec'ebir las Anpollas
+de aq<ue>llos q<ue>las t<r><<a>>hen & dar las el vno al ot<r><<o>> sse-gu<n>t}
 {CB2.
-}
+el g<r><<a>>do en q<ue> estaua<n> & come<n>c'ado p<r><<i>>m<er>ament<e>
+el ostario fasta q<ue> legue al ob<is>po & alas de poner
+ssobr<e>l altar. & esto<n>c'e deue<n> ordenar en man<er>a de
+p<ro>c'essio<n> a diestro & a ssiniestro del ob<is>po los c'irial<e>s
+e<n> q<ue> esta<n> las ca<n>delas & la cruz & los ac'enssa-
+rios & los lib<r><<o>>s d<e>los eua<n>gelios. & ot<r><<o>>ssi los .xij.
+p<re>stes q<ue> dixemos deue<n> estar a diest<r><<o>> & a ssinistro e<n>
+cabo d<e>la p<ro>cessio<n> mas c'erca del ob<is>po % E esto
+todo ordenado deu<e> el ob<is>po ffazer ss<er>mo<n> al pueblo
+q<ue> co<n>uenga a aq<ue>lla fiesta o ssi el no<n> pudiesse ot<r><<o>>
+por el a q<u><<i>>en el lo ma<n>dasse. & acabado el ss<er>mo<n> asse
+el ob<is>po tornar al altar & bendezjr p<r><<i>>m<er>ament<e> el
+balssamo ssi ot<r><<a>> bez no<n> ffue bendich<o>. {RUB. % Ley
+.xLiiij<<o>>. com<m>o deu<e> sseer bendito el oljo del babtismo
+& el delas oljuas q<ue> buelue<n> con<e>l q<ue> llama<n> c<r><<i>>smal.}
+{IN2.} Ordenadas estas cosas sseg<un>t auemos dich<o>
+a el ob<is>po de bendezjr el oljo del balssamo
+& la bendic'io<n> es esta en q<ue> rruega a dios q<ue> es o-
+brador d<e>las cosas c'elestiales & aparejador de
+todas las u<er>tudes q<ue> oya las ssus u<er>tudes & las
+ssus p<re>garias assi q<ue> aq<ue>lla ssuor q<ue> lloro la corte-
+za de aq<ue>l arbol bie<n> auent<ur>ado ssea Rec'ebido
+por muy bue<n> vngue<n>to p<ar>a ffazer co<n> aq<ue>lla obra
+q<ue> <con>viene & ssa<nc>tigue & otorgue aq<ue>lla bendic'io<n> por
+la ssu piedat. & q<u><<a>>ndo esto oujer<e> dich<o> deu<e> en ssa-
+neldat tr<e>s vezes ssobr<e> el Anpolla del babtismo
+dizjendo esta or<ac'i>on e<n> q<ue> Ruega much<o> homjllo-
+sament<e> a dios q<ue> es c<r><<i>>ador de todas las c<r><<i>>at<ur>as
+en q<u><<a>>l a moysen ssu ss<er>uo por mazelamje<n>to de (y)
+(^era) yeruas & por ssa<nc>tifficac'io<n> q<ue> q<u><<i>>so q<ue> ffizjesse
+vngue<n>to de bue<n> olljo q<ue> el enbie largamjente
+La ssu gr<ac'i>a ssp<irit>ual ssobr<e> aq<ue>l vngue<n>to q<ue> aduxo
+La rrayz del ffueste por q<ue> ssea ffech<o> por ma-nos}
+{CW. nos de ssac<er>dotes}
 [fol. 26r]
 {CB2.
-}
+de ssac<er>dotes vngue<n>to co<n>plido de c<r><<i>>sma por dar
+anos Aleg<r><<i>>a de ffe % E q<ue> ssea aq<ue>l ob<r><<a>>dor digno p<ar>a
+faz<er> la ssen<n>al d<e>la c<ru>z c'elestial assi q<ue> todos Aq<ue>ll-
+os q<ue> co<n> el ffuere<n> vntados en<e>l ss<anc>to baptismo q<ue> A-
+cabe<n> bendic'io<n> co<n>plida p<ar>a los cuerpos. p<ar>a las Alma<<s>>
+& q<ue> por este don ssea<n> ssienp<re> enssa<n>chadas las ss<us>
+volu<n>tad<e>s en la ffe % E despu<e>s ha de ssen<n>alar
+ot<r><<o>>s tr<e>s uezes ssobre el ollio por dios pad<r><<e>> pod<er>o-
+so q<ue> ffizo el c'ielo & la t<ie>rra & el mar & todas las
+ot<r><<a>>s cosas q<ue> en<e>llas sson por q<ue> todo el poder del
+diablo ssathanas & toda la hueste de ss<us> co<n>pan<n>-
+as & de encuent<r><<o>> de mal ssea derraygada & fu-
+yda del Assi q<ue> todos los q<ue> co<n> el ffuere<n> vntados
+ssean bendichos ffijos de dios por el sp<irit>u s<anc>to q<ue> de-
+sc'ienda ssobre ellos en<e>l no<n>bre de dios & padre po-
+d<er>oso & por el Amor de n<uest>ro ssen<n>or ih<es>u x<pist><<o>>. ssu ff-
+ijo q<ue> es vno & co<n> el viue & rregna por ssienpre
+jamas % E despu<e>s q<ue> esta or<a>c'<i>on oujere di-
+cha deue dez<ir> esta ot<r><<a>> or<a>c'<i>on en q<ue> rruega a d-
+ios q<ue> es muy Alto pad<r><<e>> q<ue> pare mjent<e>s al rru-
+ego q<ue> el ffaz com<m>o q<u><<i>>er q<ue> ssea pecador & me-
+ssq<u><<i>>no q<ue> el le enderesc'e al ssu s<anc>to baptismo
+co<n> el egual vnto el ssu fijo ssobre todas las
+s<us> co<n>pan<n>as & E esto ta<n>to q<u><<i>>ere dez<ir> com<m>o q<ue> lo sa-
+q<<o>> & lo onrro mas q<ue> a todos los ot<r><<o>>s om<ne>s ot<r><<o>>ssi
+q<ue> s<anc>tigue<n> aq<ue>l s<anc>to ssac<r><<a>>me<n>to de Aq<ue>lla c<r><<i>>ssma &
+q<ue> los co<n>ffirme co<n> la gr<ac'i>a d<e>los vij<<o>> donos de sp<irit>u
+s<anc>to co<n> q<ue>los Redimjo & leua<n>do los sp<irit>ual me<n>t<e> &
+q<ue> Assi los q<u><<i>>ere enoblesc'er por aq<ue>lla c<r><<i>>ssma ben-
+dicha le ssea vnc'io<n> c'elestial & comje<n>c'o de x<r><<i>><sti>an-
+dat por Aq<ue>lla vestid<ur>a Assi com<m>o pan<n>os onrrad-
+os p<ar>a boda & p<ar>a log<r><<a>>mje<n>to p<er>durable q<ue> sse entien-
+de por sse allegar a dios & por au<er> rremjssion
+de v<uest>ros pecados de g<u><<i>>sa q<ue> ssea<n> ss<us> ffijos scogi-
+dos q<ue> ssea<n> c'iertos d<e>la ssu u<er>tud q<ue> es acabada
+me<n>t<e> co<n>plido de gr<ac'i>a sp<irit>ual assi q<u><<a>>l q<u><<i>>er q<ue> co<n> este
+vngue<n>to ssag<r><<a>>do pueda rrec'ebir el ssu ssac<r><<a>>me<n>to}
 {CB2.
-}
+del cuerpo & d<e>la ssang<r><<e>> de n<uest>ro ssen<n>or ih<es>u xp<ist>o. por q<ue>
+ssea en ssu deffendimjento & enssu guarda & q<ue> a-
+ya la ssu vida p<er>d<ur>able % E q<ue> este olio llama<n>
+c<r><<i>>smal. por q<ue> co<n> el faze<n> la c<r><<i>>sma & co<n> el Aparca-
+da me<n>t<e> vnge<n> al p<a>p<<a>>. & Alos p<er>lados mayor<e>s &
+a los sac'<er>dot<e>s & Alos enp<er>ador<e>s & ha los Reyes & A
+todas las ot<r><<a>>s cosas q<ue> s<anc>ta egl<es>ia scogio p<ar>a ss<er> ssag<r><<a>>-
+das assi com<m>o Adelante oydred<e>s de cada vna co-
+m<m>o co<n>ujene {RUB. % Ley xl & v de com<m>o deue<n> bo-
+luer el ollio de las olljuas co<n> el del b<a>b<tism>o}
+{IN2.} Fjnjda esta or<a>c'<i>on q<ue> auemos dicha ha el
+ob<is>po de tomar el olio d<e>las oliuas q<ue> es
+ya co<n>jurado & buelto co<n>> el d<e>l b<a>b<tism>o dizien-
+do q<ue> Aq<ue>l melezjnamjento de Aq<ue>llos ollios ssea
+p<er>don de todos los pecador<e>s por q<ue> Aq<ue>llos q<ue> co<n> el
+fuere<n> vngidos. & g<u><<a>>rda de ssalud p<ar>a ssienpre &
+A esto deue<n> rresponder Ame<n> % E desp<ue>s deue<n> de-
+z<ir> esta or<a>c'<i>on de q<ue> el entendjmje<n>to es Atal
+q<ue> Ruega a dios n<uest>ro ssen<n>or q<ue> es pod<er>oso ssobre to-
+das las cosas el q<u><<a>>l no<n> podiendo ss<er> en ssi cabo p<re>so
+nj<n> enc'errado pon nj<n>gu<n>a man<er>a q<u><<i>>so cabo p<re>nder & en-
+cerrar A ssu fijo ih<es>u x<pist><<o>>. q<ue>riendo q<ue> rrec'i(e)biesse n<uest>ra
+carne % E por q<ue> sse no<n> pudiesse<n> p<ar>tir & ara<n>?? la
+gr<ac'i>a de sp<irit>u ss<anc>to vntando lo d<e>l ollio de sp<irit>u s<anc>to g<r><<a>>nd
+Aleg<r><<i>>a ssobre todas ss<us> co<n>pan<n>as por q<ue> el linage d<e>l
+om<n>e q<ue> p<er>dio la ssu hedat por co<n>ssejo d<e>l diablo q<ue>
+por el ssu fijo ih<es>u x<pist><<o>>. q<ue>lo cob<r><<a>>sse % E por ende
+q<ue>l fizo todas estas cosas q<ue> q<u><<i>>era q<ue> Aq<ue>llas q<ue> ssea<n>
+c<r><<i>>adas en mat<er>ia g<r><<u>>essa de man<er>a q<ue>la t<r><<i>>njdat co<n>-
+plida l<o>s bendiga & bendiziendo los s<anc>tigue & de
+ue el ob<is>po ss<anc>tiguar rrogando a dios en<e>ste lugar
+q<ue> Aq<ue>l ayuntamje<n>to d<e>llos ssea vno assi q<ue> q<u><<a>>l q<u><<i>>er
+q<ue> de fuera sse vntado co<n> el q<ue> ot<r><<o>>ssi la ssea de de-
+nt<r><<o>> p<ar>a tollir toda suziedad de pecado por q<ue> pue-
+da ss<us> Ap<er>c'ero d<e>los rregnos d<e>los c'ielos % E
+despu<e>s q<ue> esta or<a>c'<i>on ouiere dich<o> ha de dez<ir>}
 [fol. 26v]
 {CB2.
 }
