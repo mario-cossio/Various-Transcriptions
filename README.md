@@ -9,8 +9,10 @@ Las transcripciones disponibles son:
 <ol>
 <li>Alfonso X, <em>Estoria de España</em> (Versión amplificada, retraducida del gallego-portugués al castellano, de Ramiro I a Vermudo III), Madrid, Biblioteca Nacional de España, ms. 643</li>
 <li>Alfonso X, <em>Siete Partidas</em>: <em>Primera Partida</em>, Toledo, Biblioteca Capitular de Toledo, ms. 43-13</li>
-<li>Pedro Alfonso, <em>Crónica de 1344</em> (Q1), Madrid, Biblioteca Nacional de España, ms 10814</li>
-<li>Pedro Alfonso, <em>Crónica de 1344</em> (Q2), Madrid, Biblioteca Nacional de España, ms 10815</li>
+<li>Juan Manuel, <em>Libro del cavallero e del escudero</em>, Madrid, Biblioteca Nacional de España, ms. 6376</li>
+<li>Juan Manuel, <em>Tratado de la asunción de la Virgen</em>, Madrid, Biblioteca Nacional de España, ms. 6376</li>
+<li>Pedro Alfonso, <em>Crónica de 1344</em> (Q1), Madrid, Biblioteca Nacional de España, ms. 10814</li>
+<li>Pedro Alfonso, <em>Crónica de 1344</em> (Q2), Madrid, Biblioteca Nacional de España, ms. 10815</li>
 </ol>
 
 <p align="right">MCO</p>
@@ -18,6 +20,8 @@ Las transcripciones disponibles son:
 Citar como:
 
 <ol>
+<li>Cossío Olavide, Mario (2022). «<em>Libro del cavallero e del escudero</em> (Biblioteca Nacional de España, ms. 6376), transcripción semipaleográfica». <em>Transcripciones varias</em>, https://github.com/mario-cossio/Transcripciones-varias, fecha de consulta.</li>
+<li>Cossío Olavide, Mario (2022). «<em>Tratado de la asunción de la Virgen</em> (Biblioteca Nacional de España, ms. 6376), transcripción semipaleográfica». <em>Transcripciones varias</em>, https://github.com/mario-cossio/Transcripciones-varias, fecha de consulta.</li>
 <li>Cossío Olavide, Mario (2023). «<em>Estoria de España</em> (Biblioteca Nacional de España, ms. 643), transcripción semipaleográfica». <em>Transcripciones varias</em>, https://github.com/mario-cossio/Transcripciones-varias, fecha de consulta.</li>
 <li>Cossío Olavide, Mario (2023). «<em>Primera Partida</em> (Biblioteca Capitular de Toledo, ms. 43-13), transcripción semipaleográfica». <em>Transcripciones varias</em>, https://github.com/mario-cossio/Transcripciones-varias, fecha de consulta.</li>
 <li>Cossío Olavide, Mario (2023). «<em>Crónica de 1344</em>, Q1 (Biblioteca Nacional de España, ms. 10814), transcripción semipaleográfica». <em>Transcripciones varias</em>, https://github.com/mario-cossio/Transcripciones-varias, fecha de consulta.</li>
