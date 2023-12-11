@@ -5,6 +5,7 @@
 {RMK: Toledo | Biblioteca Capitular de Toledo | 43-13.}
 {RMK: Mario Antonio Coss’o Olavide}
 ¦cambiar ss<ier>uo ss<ier>ua por ss<er>uo/a
+¦ cambiar {RUB. % Ley L<<a>>x por Lx<<a>>
 [fol. 1v]
 {CB2.
 {RUB. Tit<u>lo p<r><<i>>m<er>o q<ue> fabla delas leyes}
@@ -3199,7 +3200,7 @@ dich<o> a de alc'ar la mano & bendezjr los dizjendo}
 {CB2.
 q<ue>la bendic'io<n> del padre & del ffijo & del ssp<irit>u ss<anc>to
 desc'enda ssobr<e> ellos & ffinca p<ar>a ssienpr<e> & ento<n>-
-ce an de rresponder ame<n>. {RUB. % Ley xl<<a>>.-
+ce an de rresponder ame<n>. {RUB. % Ley xl<<a>>.
 .ij. Com<m>o sse deu<e> acabar La missa.}
 {IN2.} Acabada la bendic'io<n> sseg<un>t q<ue> auemos di-
 ch<o> deu<e> sse el ob<is>po tornar al altar &
@@ -4066,7 +4067,7 @@ Ay ot<r><<a>> cosa en la penj<tenc'i>a q<ue> es muy buena q<ue> co<n>
 u<er>guenc'a q<ue> han los om<ne>s en descob<r><<i>>r sse los
 vnos Alos ot<r><<o>>s el mal q<ue> fazen dexa<n> de fa-
 z<er> muchas cosas nalas q<ue> fara<n> ssi lo no<n>
-oujessen a dez<ir> {RUB.% % Ley L<<a>>x q<ue> cosa es en ssi
+oujessen a dez<ir> {RUB.% % Ley Lx<<a>> q<ue> cosa es en ssi
 la penjtenc'ia.}
 {IN5.} Prouechos muy g<r><<a>>ndes vjene<n> d<e>la penj<tenc'i>a A
 los q<ue>la Rec'iben. ca ssin los q<ue> auem-
@@ -4080,7 +4081,7 @@ do de ss<us> pecados co<n>plida me<n>t<e> q<ue> ha ma<n>jfesta-
 do % E ot<r><<o>>ssi del essfuerc'o & ffirmedunbre p<ar>a
 no<n> caer en<e>llos dallj adelante % E desta ma-
 n<er>a Ap<ro>uecha tanto. q<ue> Ap<ro>uecha Al Alma & A-
-ljnpia el cuerpo bueno. {RUB. % Ley L<<a>> x & j<<a>> aq<u><<i>>-
+ljnpia el cuerpo bueno. {RUB. % Ley Lx<<a>> & j<<a>> aq<u><<i>>-
 en tiene p<ro> la penjte<n>c'ia.}
 {IN1.} Tres man<er>as sson de pecados ssobre q<ue> stab-lesc'io}
 [fol. 31r]
@@ -4175,7 +4176,7 @@ dos h<er>manas q<ue> sse entiende por penj<tenc'i>a q<ue> p<er>-
 dona dios Al pecador % Onde por estas tr<e>s
 man<er>as de rrepentjmjento Ressuc'ita n<uest>ro
 ssen<n>or ih<es>u x<pist><<o>> Alos q<ue> yerran cont<r><<a>> el cayendo
-pecado venjal & c<r><<i>>mj<n>al & mortal {RUB. % Ley L<<a>>x &
+pecado venjal & c<r><<i>>mj<n>al & mortal {RUB. % Ley Lx<<a>> &
 dos q<u><<a>>ntas man<er>as sson de pecados ssobre q<ue>
 ha de ss<er> ffecha la penjte<n>c'ia.}
 {IN5}. Penas ssen<n>aladas de<<ue>> auer todo aq<ue>l q<ue>
@@ -4213,7 +4214,7 @@ dixo q<ue> el g<r><<a>>nd enssuziamje<n>to no<n> deue por
 ende om<n>e dexar de no<n> comer co<n> las man-
 os no<n> lauadas mas d<e>los malos penssamje<n>-
 tos q<ue> ssallen del corac'on & d<e>la voluntad {RUB. %
-Ley L<<a>>x & (tr<e>s) q<u><<a>>tro q<ue> pena meresc'e el q<ue> ffa-
+Ley Lx<<a>> & (tr<e>s) q<u><<a>>tro q<ue> pena meresc'e el q<ue> ffa-
 ze pecado c<r><<i>>mjnal p<ar>a Auer p<er>don.}
 {IN3.} Crimen en latjn ta<n>to q<u><<i>>ere dez<ir> com<m>o pe-
 cado de yerro q<ue> los om<ne>s ffazen errando
@@ -4248,7 +4249,7 @@ cho del % E q<u><<a>>nto me<n>guasse de conplir el pe-
 cador de ssu emjenda en ssu vida ta<n>to Auria
 de eme<n>dar por ende Rec'ibiendo pena ssu
 Alma en<e>l ot<r><<o>> mu<n>do despu<e>s q<ue> muriesse {RUB. %
-Ley L<<a>>x & v q<ue> pena m<er>esc'e el q<ue> ffaze pe-
+Ley Lx<<a>> & v q<ue> pena m<er>esc'e el q<ue> ffaze pe-
 cado mortal & por q<u><<a>>l emjenda q<ue> ffaga
 ssera qujto.}
 {IN3.} Mortal tanto q<u><<i>>ere dez<ir> com<m>o cosa q<ue> ffaze
@@ -4332,7 +4333,7 @@ namje<n>to sse p<r><<e>>gunta q<ue> sse Aljnpia<n> delos peca-dos}
 {CB2.
 por q<ue> no<n> ay menest<er> ot<r><<o>> p<ur>gatorio nj<n>gu<n>o %
 E por la ssaluac'io<n> va<n> desenbargada me<n>t<e>
-Ala gl<or>ia de p<ar>ayso {RUB. % Ley L<<a>>x & vj en q<ue>
+Ala gl<or>ia de p<ar>ayso {RUB. % Ley Lx<<a>> & vj en q<ue>
 man<er>a sse deue<n> los om<ne>s conffessar.}
 {IN3.} Conffessar no<n> sse deue nj<n>gu<n>o ssi t<r>es
 cosas en ssi no<n> oujere p<ar>a ss<er> la penj<tenc'i>a
@@ -4358,7 +4359,7 @@ penj<tenc'i>a del Alma por el mal q<ue> oujesse fecho
 demas ss<er>ia g<r><<a>>nd falssedat mj<n>tiendo A dios
 q<ue> ssabe todas las cosas c'ierta me<n>t<e> mag<ue>r
 no<n> jelo diga<n> & q<ue> da por ende mayor pena
-q<ue> si jelo dixe(sse)ssen {RUB. % Ley L<<a>>x & vij<<e>>
+q<ue> si jelo dixe(sse)ssen {RUB. % Ley Lx<<a>> & vij<<e>>
 q<ue> cosas deue<n> ffaz<er> los que sse confessare<n>
 p<ar>a sser ssu co<n>fession u<er>dadera.}
 {IN3.} Quat<r><<o>> cosas deue faz<er> el om<n>e q<ue> se con-ffesare(^n)}
@@ -4399,7 +4400,7 @@ nde el q<ue> en tal stado studiesse. & en<e>ste
 mu<n>do muriesse ssienp<re> Auria pena por ello}
 {HD. T<itul><<o>> .iiij.}
 {CB2.
-en<e>l ot<r><<o>> mu<n>do {RUB. % Ley L<<a>>x & viij<<o>> de quales co-
+en<e>l ot<r><<o>> mu<n>do {RUB. % Ley Lx<<a>> & viij<<o>> de quales co-
 ssas deue<n> los om<ne>s Auer uerguenc'a en
 la penjtenc'ia & de quales non.}
 {IN2.} Uerguenc'a es vna delas nobl<e>s co-
@@ -4432,153 +4433,155 @@ tenje<n>do sse q<ue>los scatjmara<n> ssi sse penjte<n>c'ia-
 ren o Assmare<n> taman<n>a locura q<ue> ff(i)jncara<n>
 envergonc'ados ssi dixere<n> los yerros q<ue> ha<n>}
 [fol. 33v]
-¦AQUI TRANKS, 33
 {CB2.
-fechos. ca tal u<er>guenc'a com<m>o esta es mala-
-endos man<er>as % La vna por maldat q<ue>
+fechos. ca tal u<er>guenc'a com<m>o esta es mala
+en dos man<er>as % La vna por maldat q<ue>
 muest<r><<a>> enssi el om<n>e q<ue>la ha % E la ot<r><<a>> por
-q<ue> viene por q<ue> viene por co<n>ssejo del dio
+q<ue> viene (por q<ue> viene) por co<n>ssejo del dia-
 blo Aq<u><<i>> pesa con<e>l el bie<n> & plaze co<n> el nal
-% Onde por estas Razon<e>s q<ue> Auemos di<-
+% Onde por estas Razon<e>s q<ue> Auemos dic-
 ho es buena la u<er>guenc'a & convjene q<ue>la A-
-yen & mala o la no<n> deue<n> Au<er>> demas ssen-
-ea much<o> s<r><<i>>n<n>a cosa de Auer nj<n>gu<n>a u<er>gu<n>
-ca en descob<r><<i>>r ss<us> pecados q<ue> ha ffechos & dios
-la vna p<ar>te q<ue>lo ssabe todo & d<e>la ot<r><<a>> q<ue> queda
-dar conssejo Al om<n>e q<ue> no<n> puduiere ffazer> ssi
-no<n> por el % E por ende no<n> deua tomar uj-
-gua u<er>guenc'a de penjte<n>c'iasse puel estau
-carrera depecha p<ar>a p<ar>tir sse de mal & ffaz<er>
-bie<n> % E ssin todo esto deue el pecador A
-uer u<er>guenc'a parando mjet<>s de com<m>o o
-str><<a>> <e>ro ssen<n>or ih<es>u x<pist><<o>> no<n> la q<u><<i>>so au por ssal
-uar Anos del poder de diablo dexando sse de
-noscar & ma t<r><<e>>er A muy val gente % E ot<r><<o>>s
+yan & mala o la no<n> deue<n> Au<er> demas ssem-
+eja much<o> st<r><<a>>n<n>a cosa de Auer nj<n>gu<n>a u<er>gue<n>-
+c'a en descob<r><<i>>r ss<us> pecados q<ue> ha ffechos & dios
+la vna p<ar>te q<ue>lo ssabe todo & d<e>la ot<r><<a>> q<ue> pueda
+dar conssejo Al om<n>e q<ue> no<n> pudiere ffaz<er> ssi
+no<n> por el % E por ende no<n> deue tomar nj<n>-
+gu<n>a u<er>guenc'a de penjte<n>c'ia pues esta es
+carrera derecha p<ar>a p<ar>tir sse de mal & ffaz<er>
+bie<n> % E ssin todo esto deue el pecador A-
+uer u<er>guenc'a parando mjent<e>s de com<m>o mo-
+st<r><<o>> N<uest>ro ssen<n>or ih<es>u x<pist><<o>> no<n> la q<u><<i>>so au<er> por ssal-
+uar Anos del poder de diablo dexando sse de-
+nostar & mal t<r><<a>>eer A muy vil gente % E ot<r><<o>>
 ssi por ssacar nos d<e>la p<r><<i>>ssion del jnffierno
-q<ue> sse dexo p<re>nder Assus> enemjgos lcan g<r><<a>>nd de
+q<ue> sse dexo p<re>nder Ass<us> enemjgos Atan g<r><<a>>nd de-
 sonrra del q<ue> mayor no<n> pod<r><<i>>a. & q<ue> por n<uest>ras &
-culpas & Serros. q<u><<i>>so ss<er> mal trecho & ferido
-& por coronar nos en<e>l c'ielo co<n>sugo ssu fijo al
-pusiessen coronas de ss<er>jmas & por dar sos
+culpas & yerros. q<u><<i>>so ss<er> mal trecho & ferido
+& por coronar nos en<e>l c'ielo co<n>sigo ssu fijo q<ue>l
+pusiessen coronas de spjnas & por dar nos
 onrra de vida p<er>durable & q<ue> no<n> cayessemos
-en muerte q<ue> dura por ssienp<re> Jamas & ssede
-xo poner muy desonrra ca me<n>t<e> A la cruzj<n>
-morir enella % E por ende co<n> deue n<n>gu<n>o
+en muerte q<ue> dura por ssienp<re> Jamas & sse de-
+xo poner muy desonrrada me<n>t<e> en la cruz &
+morir enella % E por ende no<n> deue nj<n>gu<n>o
 Au<er> u<er>guenc'a de penjte<n>c'iar sse por palabras
-q<ue> diga nj<n> por starnjo q<ue> del ffigan los om<ne>s q<ue>
-sson latos & nesc'ios. Ca por nj<n>gu<n>a man<er>a ta<n>to
-nol pod<r><<i>>an scarme<n>tar com<m>o el ffncoria starue}
+q<ue> diga nj<n> por scarnjo q<ue> del ffagan los om<ne>s q<ue>
+sson locos & nesc'ios. Ca por nj<n>gu<n>a man<er>a ta<n>to
+nol pod<r><<i>>an scarme<n>tar com<m>o el ffjncaria scarne-sc'ido}
 {CB2.
-stedo faziendo cosa por q<ue> el p<er>diesse el Auos de
-dios & sse fiziesse ss<ier>uo del diablo % E deos
-me<n>b<r><<a>>ndol de q<u><<a>>ntas u<er>guencas n<uest>ro ssen<n>or sso
-is><<o>> Rec'ibio por el ssen<n>ala da me<n>te en q<ue>re ssa-
-desudo en lo cruz todo en q<ue> nos dio A ent'endo e
-q<ue> nos deuemos desuudar de n<uest>ros pecados por-
-q<ue> el Alma descubierta & ssu u<er>guenc'a puedo
-zr Antel % E ot<r><<o>>si el pecador deue nat<r<r>l
-me<n>t<e> cobdic'iar Auer Amuor de da <j<. me<n>b<><n
-dol de com<m>o ella q<u><<a>>ndo los judios desuadare<>
+faziendo cosa por q<ue> el p<er>diesse el Amor de
+dios & sse fiziesse ss<ier>uo del diablo % E demas
+me<n>b<r><<a>>ndol de q<u><<a>>ntas u<er>guenc'as n<uest>ro ssen<n>or ih<es>u
+x<pist><<o>> Rec'ibio por el ssen<n>ala( )da me<n>te en q<ue>rer star
+desnudo en la cruz todo en q<ue> nos dio A entender
+q<ue> nos deuemos desnudar de n<uest>ros pecados por
+q<ue> el Alma descubierta & ssjn u<er>guenc'a pueda
+yr Antel % E ot<r><<o>>si el pecador deue nat<ur>al
+me<n>t<e> cobdic'iar Auer Amor de S<anc>ta <maria> me<n>b<r><<a>>n-
+dol de com<m>o ella q<u><<a>>ndo los judios desnudaro<n>
 A n<uest>o ssen<n>or ih<es>u x<pist><<o>> ssu fijo todo el cuerpo q<ue> no<n>
-le dexar<e>s nj<n>gu<n>a vestidra enel & lo cubriol
-llai do entendia q<ue> converna de ss<er> cubierto po-
-nol velo q<ue> t<r><<a>>ya en la cabec'a % E por e
-nde el pecador deue punjar de ganar sse-
-mor q<u><<a>>nto pudiere % E por q<ue> ella lo menar
-en volu<n>tads q<ue> sse p<ar>ta de ss<us> pecados & lo -
-ljnpie dellos A ssemejanc'a dol ssu velo q<ue> era
-blanco & ljnpio de u>gjnjdad & g<r><<a>>nde & conplido
-de omjldat de q<ue> ella ouo con plido ssu cuerpo
-% E por esta Razon conviene mucho Al peca
-dor q<ue>ssea omjldosso endos man<er>as % La q<ue<>> en
-sse tenjendo q<ue> ha errado & ha menesc'er m<er>c'ed
-% La ot<r><<a>> en onrrar Aq<ue>l q<ue>l da la penj<tenc'i>a echan
-do sse Ass<us> pies & ffijnando los jnojos daq<ue>lla
-g<u><<i>>sa q<ue> entendie sse q<ue> mas omjllosa me<n>t<e> lo pa-
-die ffazer parando mjent<e>s q<ue> Aq<ue>lla omjldate<n>
-ffsaz noo es Al om<n>e ssijno<n> a dios en cupo lugar
-sta Aq<ue>l q<u><<a> da la penj<tnc'i> p<ar>a p<er>onar los perados
-% E m<n>eb<r><<a>>ndo sse de q<ue> man<ra demuest<r><<a>>n dios
-olmjldat p<ar>a ssaluar Ael p<r><<i>>m<er>ame<n>t<e> en c'eer q<ue>la-
-stendio del c'ielo Ala gr<ac'i>a % E el q<ue> era Abto por
-nobleza & Abaxo sse por omjldad & q<ue>rer mon<e>r
-Assi el q<ue> no<n> era mouedigo & mouja todas}
+le dexaro<n> nj<n>gu<n>a vestidura enel & lo cubrio A-
+lli do entendia q<ue> convern<<i>>a de ss<er> cubierto co-
+nel velo q<ue> t<r><<a>>ya en la cabec'a % E por e-
+nde el pecador deue punjar de ganar ssu A-
+mor q<u><<a>>nto pudiere % E por q<ue> ella lo meta
+en volu<n>tad q<ue> sse p<ar>ta de ss<us> pecados & le A-
+ljnpie dellos A ssemejanc'a del ssu velo q<ue> era
+blanco & ljnpio de u<<i>><r>gjnjdad & g<r><<a>>nde & conplido
+de omjldat de q<ue> ella ouo conplido ssu cuerpo
+% E por esta Razon conviene mucho Al peca-
+dor q<ue> ssea omjldosso en dos man<er>as % La j<<a>> en
+sse tenjendo q<ue> ha errado & ha menester m<er>c'ed
+% La ot<r><<a>> en onrrar Aq<ue>l q<ue>l da la penj<tenc'i>a & echan-
+do sse Ass<us> pies & ffjncando los jnojos daq<ue>lla
+g<u><<i>>sa q<ue> entendiesse q<ue> mas omjllosa me<n>t<e> lo po-
+die ffazer parando mjent<e>s q<ue> Aq<ue>lla omjldat q<ue>
+ffaz no<n> es Al om<n>e ssjno<n> a dios en cuyo lugar
+sta Aq<ue>l q<ue>l da la penj<tenc'i>a p<ar>a p<er>donar los pecados
+% E me<n>b<r><<a>>ndo sse de q<ue> man<er>a demuest<r><<a>> dios
+o(l)mjldat p<ar>a ssaluar Ael p<r><<i>>m<er>ame<n>t<e> en c<r>eer q<ue> de-
+sc'endio del c'ielo Ala t<ie>rra % E el q<ue> era Alto por
+nobleza & Abaxo sse por omjldad & q<ue>rer mou<e>r
+Assi el q<ue> no<n> era mouedizo & mouja todas}
+{CW. todos}
 [fol. 34r]
 {CB2.
-las ot<r><<a>>s cosas & el q<ue> fiziere todo q<ue>rer Assi fech
+las ot<r><<a>>s cosas & el q<ue> fiziere todo q<ue>rer Assi fech<o>
 & el q<ue> no<n> era mortal & q<ue>rer morir % E el
 q<ue> era onrrado por ssi sse & por las cosas q<ue> fi-
-ciera q<ue>rer Rec'ebir desonrra dellos % E por
+ziera q<ue>rer Rec'ebir desonrra dellos % E por
 ende deue el pecador omjllarsse q<ue>brantando
-on la voluntad Repjntiendo sse del mala
-q<ue> ffizo & llorando los por q<ue>l q<u><<i>>era n<uest>ro ssen<n>or
-p<irit>u st<u><<o>> Ressu c'itar dollos men<r><<a>>ndo sse de com<m>o
+en la voluntad Repjntiendo sse del mal
+q<ue> ffizo & llorandolos por q<ue>l q<u><<i>>era n<uest>ro ssen<n>or
+ih<es>u x<pist><<o>> Ressuc'itar dellos menb<r><<a>>ndo sse de com<m>o
 el lloro q<u><<a>>ndo rressuc'ito A ssa<nc>t lazaro % Onde
-qen desta man<er>a oujere u<er>guenc'a en las co-
-sas q<ue> conviene & los dexara en Aq<ue>llos ola no<n>
-aauer fara ssu penja conplida me<n>t<e> por q<ue>
-ganara p<er>don & m<er>c'ed de dios {RUB.% Ley L<<a>>x&
-a quales cosas deue<n> les aconssejar en
+q<u><<i>>en desta man<er>a oujere u<er>guenc'a en las co-
+sas q<ue> conviene & las dexara en Aq<ue>llos ola no<n>
+a auer fara ssu penj<tenc'i>a conplida me<n>t<e> por q<ue>
+ganara p<er>don & m<er>c'ed de dios {RUB.% Ley Lx<<a>> &
+ix quales cosas deue<n> les aconssejar en
 la penjtenc'ia.}
-{asa oda cosa q<ue> entenduere Aq<ue>l q<ue> os-
-confiessa en q<ue> fizo tuerto oyerr
-Adios o Alos om<ne>s deue lo dezir en
-xx<<a>>. ssu co<n>fession. & esto por dos rrazonos
-{IN2.} La vna por granar p<er>don de dios ssufriendo a
-q<ue>lla p<e>nj<enc'i>a q<ue>l fuere dada por ssus peccados % La
-ot<r><<a>> por auer amor de aq<ue>l aq<ue pado tuegro eme<n>din
-do g<e>lo ssegu<n>t gq<e>lo mandjre en la p<e>nja. & desta p<r
+{IN4.} Toda cosa q<ue> entendiere Aq<ue>l q<ue> se
+confiessa en q<ue> fizo tuerto o yerro
+A dios o Alos om<ne>s deue lo dezir en
+ssu co<n>fession. & esto por dos rrazones
+% La vna por ganar p<er>don de dios ssufriendo a-
+q<ue>lla p<e>nj<tenc'i>a q<ue>l fuere dada por ssus peccados % La
+ot<r><<a>> por auer amor de aq<ue>l aq<u><<i>> fizo tuerto eme<n>dan-
+do g<e>lo ssegu<n>t g<e>lo mandare<n> en la p<e>nj<tenc'i>a. & desta g<u><<i>>-
 sa sse co<n>fiessa bie<n> p<ar>a el cuerpo & p<ar>a el Alma
-conosc'iendo a dios ssus yerros emendando alos
-om<ne>s ssus tuertos. ca much<o> es cosa q<ue> a dios plazo
-q<u><<a>>ndo el om<n>e ssalle al ot<r><<o>> del tuerto q<ue>l tiene fr>a
-diendo la emjend<i>a de q<u><<a>>l le mandan ffazer % E
+con<n>osc'iendo a dios ssus yerros emendando alos
+om<ne>s ssus tuertos. ca much<o> es cosa q<ue> adios plaze
+q<u><<a>>ndo el om<n>e ssalle al ot<r><<o>> del tuerto q<ue>l tiene fa-
+ziendo la emjenda de q<ue>l le mandan ffazer % E
 esto touo por bie<n> n<uest>ro ssen<n>or ih<es>u xp<ist>o q<ue> el mismo
-p<ao>ndio ant<e> la muerte emjenda del om<n>e q<ue> la q<u><<a>>ndo
-dvno q<ue> aq<ue>l q<ue> estuadiesse anbl<e> Alar g<r><<a>>l ffiaze ssu
-ebenda & le ninjesse emjente del cuerto q<ue> fedje-
-ra a ot<r><<o>> q<ue> dexasse lo q<ue> g<e>a oresc'er ant<> el & q<ue>
-puesse fazer p<r><<i>>m<er>o emjenda % E de pu<e>s torna
+p<re>ndio ant<e> la muerte emjenda del om<n>e q<ue> la q<u><<a>>ndo
+dixo q<ue> aq<ue>l q<ue> estudiesse ant<e>l Altar p<ar>a ffazer ssu
+ofrenda & le uinjesse emjente del tuerto q<ue> fizie-
+ra a ot<r><<o>> q<ue>l dexasse lo q<ue> q<ue>ria offresc'er ant<e> el & q<ue>
+fuesse fazer p<r><<i>>m<er>o emjenda % E de pu<e>s torna-
 sse a ofresc'er ssu ofrenda. & esto q<ue> q<ue>re dios es
-ce<n> g<r><<a>>nt rrazon por q<ue> el tuerto q<ue> el om<n>e rrec'ibe}
+co<n> g<r><<a>>nt rrazon por q<ue> el tuerto q<ue> el om<n>e rrec'ibe}
+{HD. T<itul><<o>> .iiij.}
 {CB2.
-no<n> lo puede ssa ber fasta q<ue> Aa q<ue>lo ffecho
-% E despu<e>s q<ue>lo ssabe ha ende posar carptoral
-me<n>t<e> ssegu<n>d el tuerto sp<irit>uall me<n>t<e> ssegu<n>d labo-
-luntad % Onde q<u><<a>>ndo sse A Junta<n> estos dos po-
-sar<e>s & en vno no<n> puede ss<er> q<ue> no<n> Aduga Alo-
-me A g<r><<a>>nd moujmjento E de mal E por
-ende esso touo n<uest>ro Sen<n>or l por bie<n> por q<ue> esto
-era cosa ta<n> cosa ta<n> cuytada q<ue> p<><<i>>mo oujesse
-conssejo A ello q<ue> Alo ssuyo Ca el ssabe ela cosa
-Ante q<ue> sse cuyde & despu<e>s q<ue> es tuydada & ot<r><<o>>si
-luego q<ue> es fecho lo q<ue> no ssabe el om<n>e % E de-
-mas com<m>o q<u><<i>>er q<ue> A el ffaga tuerto ffaziendol
-pesar no<n> A pueden tener dan<n>o q<u><<a>>to A el mj-
-ssino L q<ue> A el tiene Ademas % Ca dios ha
-podor ce tomar uenganc'a q<u><<a>> q<u><<i>>siere lo q<ue> el o-
+no<n> lo puede ssaber fasta q<ue> Aya q<ue>lo ffecho
+% E despu<e>s q<ue>lo ssabe ha ende pesar corporal
+me<n>t<e> ssegu<n>d el cuer(t)[p]o sp<irit>ual me<n>t<e> ssegu<n>d la vo-
+luntad % Onde q<u><<a>>ndo sse Ajunta<n> estos dos pe-
+sar<e>s & en vno no<n> puede ss<er> q<ue> no<n> Aduga Al o-
+m<n>e A g<r><<a>>nd moujmjento E de mal E por
+ende esso touo n<uest>ro Sen<n>or por bie<n> por q<ue> esto
+era cosa ta<n> cosa ta<n> cuytada q<ue> p<r><<i>>m<er>o oujesse
+conssejo A ello q<ue> Alo ssuyo % Ca el ssabe ela cosa
+Ante q<ue> sse cuyde & despu<e>s q<ue> es cuydada & ot<r><<o>>si
+luego q<ue> es fecho lo q<ue> no<n> ssabe el om<n>e % E de
+mas com<m>o q<u><<i>>er q<ue> Ael ffaga<n> tuerto ffaziendol
+pesar no<n> le pueden tener dan<n>o q<u><<a>>nto A el mj-
+ssmo lo q<ue> A el tiene Ademas % Ca dios ha
+poder de tomar uenganc'a q<u><<a>>l q<u><<i>>siere lo q<ue> el o-
 m<n>e no<n> puede ffaz<er> % Onde q<u><<i>>en bie<n> sse co<n>-
-ffessare p<ar>a ffaz la conffession u<er>dadera <con>vie-
+ffessare p<ar>a ffaz<er> la conffession u<er>dadera <con>vie-
 ne q<ue>la ffaga desta g<u><<i>>sa q<ue> Auemos dicho emen-
-dando A dios lo q<ue> erro % Conosc'iendolo & dolue
-ndo sse dello & ffaziendo Aq<ue>lla emjenda q<ue>l mu<n>-
+dando A dios lo q<ue> erro % Conosc'iendolo & dolie-
+ndo sse dello & ffaziendo Aq<ue>lla emjenda q<ue>l ma<n>-
 dare aq<ue>l q<ue> esta en ssu lugar por el % E ot<r><<o>>ssi
-e om<n>e ffaziendol emjenda por palab<r><<a>> q<ue>l oyir
-& por ob<r><<a>> q<ue>l ffaga el q<u><<a>>l ssie<n>ta % E tal co<n>se-
-ssion com<m>o esta es u<er>dadera & conplida por qaue> ssi
-cuple por ella lo q<ue> han de ffaz<er> Adios & Alo-
-me<n>. {RUB. % Ley L<y qual<e>s pregnntas de
+el om<n>e ffaziendol emjenda por palab<r><<a>> q<ue>l oyr
+& por ob<r><<a>> q<ue>l ffaga el q<u><<a>>l ssie<n>ta % E tal co<n>fe-
+sion com<m>o esta es u<er>dadera & conplida por q<ue> sse
+cu<n>ple por ella lo q<ue> han de ffaz<er> Adios & Al o-
+m<n>e. {RUB. % Ley Lxx<<a>> qual<e>s preguntas de-
 uen ffazer las confessiones A aq<ue>llos q<ue> sse
-N les conffiessan & q<u><<i>>los non.}
-reguntando los om<ne>s las cosas ha de sa-
-ter c'iertamje<n>t<e> lo q<ue> ot<r><<a>> g<u><<i>>sa ssi las no<n>
-sp<r>gunta sse % Ca la p<re>gunta es tal-
-p<ar>a ssaber las voluntad<o> & los ffechos
-ascondidos com<m>o la llaue con q<ue> sse Ab<r><<i>>n-
-as puertas & los ot<r><<o>>s lugar<e>s encorrados de q<ue->
-q<u><<i>>eren ssaber lo q<ue> y Jaz % E por ende q<u><<a>>ndo es}
+les conffiessan & q<u><<a>>les non.}
+{IN5.} Preguntando los om<ne>s las cosas ha de sa-
+ber c'iertamje<n>t<e> lo q<ue> ot<r><<a>> g<u><<i>>sa ssi las no<n>
+p<re>gunta sse % Ca la p<re>gunta es tal
+p<ar>a ssaber las voluntad<e>s & los ffechos
+ascondidos com<m>o la llaue con q<ue> sse Ab<r><<a>>n
+las puertas & los ot<r><<o>>s lugar<e>s enc'errados de q<ue>
+q<u><<i>>eren ssaber lo q<ue> y jaz % E por ende q<u><<a>>ndo es}
 [fol. 34v]
-
+¦AQUI TRANKS, 34
+¦ Hasta aqu’ revisi—n
 {CB2.
 }
 {CB2.
