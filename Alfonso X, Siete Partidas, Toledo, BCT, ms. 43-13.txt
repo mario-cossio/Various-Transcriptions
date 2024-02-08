@@ -1,10 +1,10 @@
-{RMK: Alfonso X, rey de Castilla y Le—n.}
+{RMK: Alfonso X, rey de Castilla y LeÃ³n.}
 {RMK: Siete Partidas.}
 {RMK: .}
 {RMK: Toledo | Biblioteca Capitular de Toledo | 43-13.}
-{RMK: Mario Antonio Coss’o Olavide}
-¦cambiar ss<ier>uo ss<ier>ua por ss<er>uo/a
-¦ cambiar {RUB. % Ley L<<a>>x por Lx<<a>>
+{RMK: Mario Antonio CossÃ­o Olavide}
+Â¶cambiar ss<ier>uo ss<ier>ua por ss<er>uo/a
+Â¶ cambiar {RUB. % Ley L<<a>>x por Lx<<a>>
 [fol. 1v]
 {CB2.
 {RUB. Tit<u>lo p<r><<i>>m<er>o q<ue> fabla delas leyes}
@@ -6602,12 +6602,11 @@ ot<r><<a>>s cosas q<ue> ssean Ass<er>ujc'io delos om<ne>s
 ue ss<er> tornado a ot<r><<o>> ss<er>ujc'io % E deue
 ss<er> guardado por q<ue> no<n> sse enssan<n>e dios}
 [fol. 48v]
-¦ hasta aqu’ transkribus corregido
 {HD. T<itul><<o>>}
 {CB2.
 co<n> el pueblo & le de majamjento. Asi com<m>o co<n>-
 tec'io Al rrey baltasar q<ue> tomo los vasos &
-las ot<r><<a>>s cosas del t<en>plo & (sse)¦ de jh<e>r<usa>l<e>m & sse
+las ot<r><<a>>s cosas del t<en>plo & (sse) de jh<e>r<usa>l<e>m & sse
 ss<er>uo dellos com<m>o no<n> deuja & destruyo lo por
 ende n<uest>ro ssen<n>or dios & metio ssu rregno
 en poder de ss<us> enemjgos {RUB. % Ley .C & xx<<a>>
@@ -6620,7 +6619,7 @@ en la ley Ante desta % P<er>o Aq<ue>llo q<ue> mas
 onrra y faz del cuerpo de n<uest>ro ssen<n>or ih<es>u
 x<pist><<o>> fueras ssin las rreliq<u><<i>>as d<e>los s<anc>tos cuy-
 os cuerpos fueron canonjzados q<ue> q<u><<i>>er ta<n>-
-to de(n)[z]er¦ com<m>o cuerpos q<ue> ffueron otorga-
+to de(n)[z]er com<m>o cuerpos q<ue> ffueron otorga-
 dos por s<anc>tos. & esto no<n> puede ot<r><<i>> ffazer
 ssjno<n> la ygl<es>ia de rroma % E ssobre to-
 das las ot<r><<a>>s rreliq<u><<i>>as sson mas de g<u><<a>>rdar
@@ -6637,7 +6636,7 @@ ganar Algo co<n> ellas. nj<n> las deue<n> uen-
 der. ca Alas cosas s<anc>tas no<n> les puede nj<n>-
 gu<n>o pon<er> p<re>c'io % E por ende no<n> deue<n>
 ss<er> ue<n>didas pu<e>s q<ue> no<n> pueden dar por
-e[l]las¦ cosas q<ue> valan ta<n>to % E co<n>vien<e>}
+e[l]las cosas q<ue> valan ta<n>to % E co<n>vien<e>}
 {CB2.
 q<ue> en las cosas t<en>porales ta<n>to vala lo co-
 sa com<m>o Aq<ue>llo por q<ue> es vendida esto
@@ -6647,7 +6646,7 @@ ria ssjmonja {RUB. % Ley .C & xx<<a>> & vna co-
 m<m>o deue<n> ss<er> p<ro>uado & muy smerados
 los q<ue> otorga el p<a>p<a> por s<anc>tos.}
 {IN2.} Santo ta<n>to q<u><<i>>ere dez<ir> com<m>o cosa A-
-ffir(n)[m]ada¦ en bie<n> % E esta ffirme-
+ffir(n)[m]ada en bie<n> % E esta ffirme-
 za sse entiende por la ffe q<ue> oujero<n> & por
 las buenas ob<r><<a>>s q<ue> ffizieron enella por q<ue>
 llegaron Affirme stado dela ygl<es>ia q<ue> no<n>
@@ -6675,14 +6674,14 @@ otorgar por s<anc>to & co<n> ssanamje<n>to delos}
 [fol. 49r]
 {HD. .iiij<<o>>.}
 {CB2.
-cardenales & ffaz<er> lo ssaber c'ie[r]ta¦ me<n>t<e> Alos
+cardenales & ffaz<er> lo ssaber c'ie[r]ta me<n>t<e> Alos
 p<er>lados & Alos ot<r><<o>>s om<ne>s buenos q<ue> y fueren
 q<ue> ssean ende testigos & stablesc'er la fiesta
 co<n> horas & ma<n>dar lo sc<r><<i>>ujr en<e>l martirojo %
 Ca atal com<m>o llama<n> lo canonjzando {RUB. % Ley
 C & xx<<a>> & dos que dep<ar>tjmjento ha ent<r><<e>>
-las cosas q<ue> sse ffazen por natura o por +}¦
-{IN2.} Natura es ffecho de di-os¦ {RUB. mjraglo.}¦
+las cosas q<ue> sse ffazen por natura o por +}
+{IN2.} Natura es ffecho de di-os {RUB. mjraglo.}
 & es el ssen<n>or & ffazedor della %
 Onde todo lo q<ue> puede ss<er> ffecho por nat<ur>a fa-
 ze dios & demas ot<r><<a>>s cosas Aq<ue> no<n> cu<n>ple
@@ -6715,16 +6714,16 @@ aposic'io<n> assi com<m>o fue d<e>la passion de jh<es>u x<pist><<o>> %
 E puede ffaz<er> de muerto biuo & del q<ue> nu<n>q<u><<a>>
 vido q<ue> ssea Assi com<m>o q<u><<a>>ndo rresuc'ito A lazaro
 & ffizo veer Al q<ue> nasc'io c'iego % E ot<r><<o>>ssi pue-
-de faz<er> las cosas de (Njmjgaja) [non nada]¦ assi com<m>o ffizo
+de faz<er> las cosas de (Njmjgaja) [non nada] assi com<m>o ffizo
 el mu<n>do & los Angeles & c'ielos & strellas q<ue> no<n>
-ffueron ffechos de eleme<n>tos (j)¦ nj<n> de ot<r><<a>> mat<eri>a¦
+ffueron ffechos de eleme<n>tos nj<n> de ot<r><<a>> mat<eri>a
 & faz cada dia las Almas de entendjmje<n>to
 q<ue> sson e<n>los om<ne>s & este poder es Apartada me<n>t<e>
 en dios % E q<u><<a>>ndo obra por el Al a dez<ir> el mj-
 raglo por q<ue> q<u><<a>>ndo Acaesc'e es cosa maravillosa
 Alas yent<e>s % Esto es por q<ue>los om<ne>s ven
 toda via los ffechos de nat<ur>a % E por ende q<u><<a>>-
-ndo Algu<n>a (j)¦ cosa sse faz <con>t<r><<a>> ella maravilla<n>
+ndo Algu<n>a cosa sse faz <con>t<r><<a>> ella maravilla<n>
 sse dende mayor me<n>t<e> q<u><<a>>ndo Acaesc'e pocas ve-
 zes. ca stonc'<e>s han sse de maravillar com<mo> de
 cosa nueua & st<r><<a>>n<n>a % E esto fablo el ssabio
@@ -6748,282 +6747,283 @@ era q<ue> venga por poder de dios & no<n> por Art<e>
 {CB2.
 ca de ot<r><<a>> g<u><<i>>sa no<n> sse maraujllarie<n> los om<ne>s del
 % E la iij<<a>> es q<ue> venga por m<er>esc'imje<n>to de
-st<idat de bondad q<ue> Aya en ssi Aq<ue>l por q<u><<i>>-
-en dios lo faz % E la iij<<a>> q<ue> Aq<ue>l mjraglo
+s<anc>tidat. de bondad q<ue> Aya en ssi Aq<ue>l por q<u><<i>>-
+en dios lo faz % E la iiij<<a>>. q<ue> Aq<ue>l mjraglo
 Acaesca ssobre cosa. q<ue> ssea co<n>ffirmamje<n>to
-d<e>la ffe. {RUB. % Ley C & xx<<a>> & q<u><<a>>tro del ssat<r><<a>>-
-me<n>t'<eo d<e>la vnc'ion q<ue> fazen Alos enffe-
-spliente sseyendo Alguno
-% ? fe enffermedad q<ue>lo Agujarsen de
-g<u><<i>>sa q<ue> sse dessenp<er>assen de ssu vida deue<n> lo
+d<e>la ffe. {RUB. % Ley .C & xx & q<u><<a>>tro del ssac<r><<a>>-
+me<n>to d<e>la vnc'ion q<ue> fazen Alos enffe-rmos +}
+{IN2.} Doliente sseyendo Algu<n>o {RUB. }
+de enffermedad q<ue>lo Agujassen de
+g<u><<i>>sa q<ue> sse dessenp<ar>assen de ssu vida deue<n> lo
 vngir co<n> olio bendicho Aq<ue> llama<n> ollio de
-enffermos por q<ue>los vngen co<n> el en las en
-ffermedad<e>s q<u><<a>>ndo q<u><<i>>ere morir % E llaua<n>-
-en la tj<n> Aeste Sac<r><<a>>me<n>to ? vnc'io. q<ue> q<u><<i>>er
-ta<n>to dez<ir> com<m>o la post<r><<i>>m<r>o vnge<n>to & por q<ue>lo
-rrec'iben los x<r><<i>><sti>anos en la ffjnde ssu vida %
-E este ma<n>de ffaz<er> el Abostol s<anc>t yague q<ue>lo
+enffermos por q<ue>los vngen co<n> el en las en-
+ffermedad<e>s q<u><<a>>ndo q<u><<i>>ere<n> morir % E llama<n>
+en latj<n> Aeste Sac<r><<a>>me<n>to s<anc>t<<e>><si>ma vnc'io<n>. q<ue> q<u><<i>>er
+ta<n>to dez<ir> com<m>o la post<r><<i>>m<er>o vnge<n>to. por q<ue>lo
+rrec'iben los x<r><<i>><sti>anos en la ffjn de ssu vida %
+E este ma<n>do ffaz<er> el Apostol s<anc>t yague q<ue>lo
 ffiziessen cl<er>jgos de mjssa ssegu<n>d dize en
-la epistola ssi Algu<n>o enffermar ent<<r>>nos
-ffaga venjr Alos p<re>st<e>s d<e>la ygl<es>ia q<ue> ore<n>essa-
+la epistola. ssi Algu<n>o enffermar ent<r><<e>> uos
+ffaga venjr Alos p<re>st<e>s d<e>la ygl<es>ia q<ue> ore<n> sso-
 brel vnge<n>do lo co<n> este ollio en<e>l no<n>bre de
-dios % E esta vnc'io<n> sse deue ffaz<er> en ssi
-ete lugar<e>s del cuerpo q<ue> sson en los ojes
-ar en las narizes & en la boca & en las ma-
-nos & en los pies & en los lomos Alos vo-
-e rpon<e>s & Alas muger<e>s en los onbvligos. por
-q<ue> esto ffazen en estos lugares por q<ue> sson
-los mje<n>bros co<n> q<ue> mas peca<n> los om<ne>s %
-Ley C & xx<<a>> & v<<a>> d<e>la vnc'ion q<ue> todos
-les x<r><<i>><sti>anos la deue tomar & q<u><<a>>ntos bie-
-odiendones gana<n> los q<ue>la rrec'i-
-ss<o> auer todo x<r><<i>><sti>ano & toda p<r><<i>>ht'en}
+dios % E esta vnc'io<n> sse deue ffaz<er> en ssi-
+ete lugar<e>s del cuerpo q<ue> sson en los ojos
+& en las narizes & en la boca & en las ma-
+nos & en los pies & en los lomos Alos va-
+rones & Alas muger<e>s en los onbligos. por
+q<ue> esto ffazer en estos lugares por q<ue> sson
+los mje<n>bros co<n> q<ue> mas peca<n> los om<ne>s {RUB. %
+Ley .C & xx & v<<a>> d<e>la vnc'ion q<ue> todos
+los x<r><<i>><sti>anos la deue<n> tomar & q<u><<a>>ntos bie-nes +}
+{IN2.} Podiendo {RUB. gana<n> los q<ue>la rrec'i-ben +}
+auer todo x<r><<i>><sti>ano & toda x<r><<i>><sti>-ana {RUB. }
 {CB2.
-ana elssacen>ta d<e>l vnea q<ue> ffazeo e ra-
-ffarnos ssgu<n>d dize en la los ie<n>t al tade-
-ue lo rrec'ebir & no<n> sse deue<n> scasoa q<ue> lo ra-
-tomes % Ca ssi lo ffiziesse desp<er>c'ia de sto-
-ra pecado nortal por q<ue> no<n> sse re<n>d ssae-
-ar % E por esta rrazon g<ana jl dieo Ae-
-laos q<ue>lo rrecaiben % E pu<e>o q<ue>lo di ziomo-
-na q<ue>l as co<n>o<e>r fcmo ste de
-ualo q<ue>fazer<n> % <a> s<e> ento-
-ss<us> pecados, ca tuelle les todos Aq<ue>llos q<ue> lla
-n<n> deujal<n> ssegu<n>d sse muest<r><<a>>? destasto a-
-las leos q<ue> ffablan en esta rrazo % Ca
-iij<<a>> es q<ue>l<e>s Aljuja las enffermedad<e>s q<ue> l<en>s ca-
-l<e>s da ffuerc'o p<ar>a no<n> teer ta<n>to la muerte <e>
-conortalos por q<ue> ssiane mas Aya {RUB. % Ley
-{RU Lx<a>>& vj<<a>> q<u><<a>>les no<n> deue<n> dar el ssu-
-ocollama<n> Atodo c<r><<a>>mento d<e>la vnc'io<n>
-om<n>e o mug<e>r q<ue> ha p<er>dido el seso R%
-& bl % Eo esto es en dos man<er>as, ca Ala
-uos ya q<ue> nu<n>q<u><<a>> lo oujero<n> & p<er>dieron le por
-enffermedad o por fferida o por ot<r><<o>> ocasion
-Onde q<u><<a>>l q<u><<i>>e q<ue>l lla ora de ssu fin fuere can
-do en tal lot<<ur>a nol deue<n> dar el ssac<o>meco
+el ssac<r><<a>>me<n>to d<e>la vnc'ion q<ue> ffazen Alos en-
+ffernos ssegu<n>d dize en la ley Ant<e> desta. de-
+ue lo rrec'ebir & no<n> sse deue<n> scusar q<ue>lo no<n>
+tomen % Ca ssi lo ffiziesse desp<re>c'iando ffa-
+ria pecado mortal por q<ue> no<n> sse pod<r><<i>>a ssalu-
+ar % E por esta rrazon gana<b> iij bien<e>s Aq<ue>-
+llos q<ue>la rrec'iben % El p<r><<i>>m<er>o q<ue>l<e>s da dios &
+mayor gr<ac'i>a p<ar>a temer & p<ar>a rrepentir sse d<e>los
+males q<ue> ffiziero<n> % E el ij<<o>> es el q<ue>l<e>s me<n>gua
+ss<us> pecados. ca tuelle les todos Aq<ue>llos q<ue> lla-
+ma<n> venjal<e>s ssegu<n>d sse muest<r><<a>> dessuso en
+las leyes q<ue> ffablan en esta rrazon % E el
+iij<<o>> es q<ue>l<e>s Aljuja las enffermedad<e>s q<ue> ha<n>. ca
+l<e>s da ffuerc'o p<ar>a no<n> temer ta<n>to la muerte &
+conortalos por q<ue> ssane<n> mas Ayna {RUB. % Ley
+C & xx & vj<<a>> a q<u><<a>>les no<n> deue<n> dar el ssa-c<r><<a>>mento +}
+{IN3.} Loco llama<n> Atodo {RUB. d<e>la vnc'io<n>}
+om<n>e o mug<e>r q<ue> ha p<er>dido el seso %
+E esto es en dos man<er>as. ca Alg-
+u<n>os ya q<ue> nu<n>q<u><<a>> lo oujero<n> & p<er>dieron le por
+enffermedad o por fferida o por ot<r><<a>> ocasion
+Onde q<u><<a>>l q<u><<i>>e[r] q<ue>l Ala ora de ssu fin fuere cay-
+do en tal loc<ur>a nol deue<n> dar el ssac<r><<a>>me<n>to
 d<e>la vnc'io<n>, ca el q<ue> nu<n>q<u><<a>> ouo sseso no<n> puede
-petar & por ende ha menest<er> este ssac<r><<a>>me<n>to
-% P<er>o ssi Aq<ue>l q<ue> p<er>dio> el sseso dema<n>dando elta
+pecar & por ende ha menest<er> este ssac<r><<a>>me<n>to
+% P<er>o ssi Aq<ue>l q<ue> p<er>dio el sseso dema<n>dando esta
 vnc'io<n> Ant<e> q<ue>lo p<er>diesse deuel ss<er> dada % E
-esso mjssmo deue ffaz<er> ssi conbre el sseso de-
-pue>s dq<ue>lo ha p<er>dido & lo demandare % E ssi
-Algu<n> nju< biujesse dezjmos ot<r><<o>>ssi A enfferme-
-dad Ant<e> de t<ien>po q<ue> pudiesse pecar q<ue> nolo
-deue<n> vngir por Aq<ue>lla mjssma rrazon q<ue> vixemos}
+esso mjssmo deue<n> ffaz<er> ssi cob<r><<a>>re el sseso de-
+pu<e>s d<e> q<ue>lo ha p<er>dido & lo demandare % E ssi
+Algu<n> njn<n>o biujesse dezjmos ot<r><<o>>ssi A enfferme-
+dad Ant<e> de t<ien>po q<ue> pudiesse pecar q<ue> no<n> lo
+deue<n> vngir por Aq<ue>lla mjssma rrazon q<ue> dixemos}
 [fol. 50r]
 {HD. T<itul><<o>> v<<o>>}
 {CB2.
-del loo {RUB.% Ley C & vij<<a>> el ssac<a>>n<n>to q<ue>
-es en la orden d<e>la gl<es>ia & enel cas-
+del loco {RUB. % Ley .C & vij<<e>> el ssac<r><<a>>me<n>to q<ue>
+es en la orden d<e>la ygl<es>ia & enel cas-
 amjento q<ue>los om<ne>s rrec'iben por ssu vo-
-lntad bacan & <r><<i>>sten sso fe>r g<r><<a>>nd pe-
-na los x<r><<i>><sti>anos q<ue> no<n> q<u><<i>>eren creer los
-anla me<n>t<e> es coaz<e>me<n>ta.
-RUB % io enlas legor o<n>edestar sse-
-sg<n>a d <e> o<rdiachas ssegu<n>d s<anc>ta egl<es>ia mue-
-st<r><<a>> en los v ssac<r><<a>>me<n>tos de q<ue> ffiziemos emje<n>t<e>
-enel comje<n>c'o deste t<r><<e>>. mas por q<ue> del pa>>
+lu<n>tad bacan & c<r><<e>>sc'en ssof<r><<i>>r g<r><<a>>nd pe-
+na los x<r><<i>><sti>anos q<ue> no<n> q<u><<i>>eren creer los +}
+{IN3.} Conplida me<n>t<e> es {RUB. Sac<r><<a>>me<n>tos}
+dicho enlas leyes Ant<e> desta sso-
+bredichas ssegu<n>d s<anc>ta egl<es>ia mue-
+st<r><<a>> en los v<<o>> ssac<r><<a>>me<n>tos de q<ue> ffiziemos emje<n>t<e>
+enel comje<n>c'o deste t<itul><<o>> mas por q<ue> del vj<<o>>
 ssac<r><<a>>me<n>to q<ue> es en la orden d<e>la clerezia es
-dich<o> enel p<r><<i>>m<er>o & en<e>l ij<<o>>. t<r><<o>>. q<ue> ssondepu<e>s de-
+dich<o> enel p<r><<i>>m<er>o & en<e>l ij<<o>> t<itul><<o>> q<ue> sson depu<e>s de-
 ste q<ue> ffabla d<e>los p<er>lados de s<anc>ta egl<es>ia & delos
 ot<r><<o>>s ssac<r><<a>>me<n>tos & ot<r><<o>>ssi del sseptjmo ssac<r><<a>>me<n>-
 to q<ue> es delos casamje<n>tos sse muest<r><<a>> en
 las leyes del q<u><<a>>rto lib<r><<o>>. q<ue> ffabla d<e>los despo-
-rios & d<e>los matn<nojos. por ende no<n> toujem-
-es por bie<n> de dez<ir> aq<u><<i>> dellos por q<ue> no<n> deob-
-lassenos la rrazon<e>s % P<er> el q<ue> q<u><<i>>er sr>a-
+rios & d<e>los mat<r><<i>>mo<n>jos. por ende no<n> toujem-
+os por bie<n> de dez<ir> aq<u><<i>> dellos por q<ue> no<n> dob-
+lassemos la rrazon<e>s % P<er>o el q<ue> q<u><<i>>er ssa-
 ber las cosas q<ue> p<er>tenesc'en Aestos dos ssa-
 c<r><<a>>me<n>tos en los lugar<e>s dessuso no<n>brados
-los ffallara conplida me<n>t<e> {RUB. % Ley C
-x<<a>& viij<<o>>. q<ue> pena m<er>esc'en los q<ue> non
-ten & me<n>gu<n>a los ssacrame<n>tos de
-jeresc'en ssofr><i> g<r><<a>>nds<a<n>a egl<es>ia
-p<> pena los x<r><<i>><sti>ano q<ue> no<n> q<u><<i>>eren ceer
-ita Ao los ssac<r><<a>>me<n>tos de s<anc>ta egl<es>ia de
-q<ue> ffablamos en las leyxa deste C ca
-pu<e>s q<ue> han no<n>bre de x<r><<i>><sti>anos deue<n> lo p<r><a>-
-en la ffer en las obras % E por ende
+los ffallara conplida me<n>t<e> {RUB. % Ley .C &
+xx & viij<<o>>. q<ue> pena m<er>esc'en los q<ue> non
+c<r><<e>>en & me<n>gua<n> los ssacrame<n>tos de +}
+{IN3.} Meresc'en ssof<r><<i>>r g<r><<a>>nd {RUB. s<anc>ta egl<es>ia}
+pena los x<r><<i>><sti>anos q<ue> no<n> q<u><<i>>eren c<r><<e>>er
+los ssac<r><<a>>me<n>tos de s<anc>ta egl<es>ia de
+q<ue> ffablamos en las leyes deste t<itul><<o>> ca
+pu<e>s q<ue> han no<n>bre de x<r><<i>><sti>anos deue<n> lo ss<er>
+en la ffe & en las obras % E por ende
 q<u><<a>>l q<u><<i>>er x<r><<i>><sti>ano q<ue> stos ssac<r><<a>>me<n>tos no<n> creyesse
-assi com<m>o mada sta<n> egl<es>ia deue rrec'ebir}
+assi com<m>o ma<n>da s<anc>ta egl<es>ia deue rrec'ebir}
 {CB2.
 la pena q<ue> es puesta <con>t<r><<a>> los hereges de q<ue> ffa-
-blauos en la post<r><<i>>uera p<ar>tida deste lib<r><<o>>. %
-% t<<los p<er>lados de s<anc>ta egl<es>ia q<ue> ha<n> de e-
-most<r><<a>>r la ffe & dar los. Sac<r><<a>>me<n>to %
-ablado Auemos en los dos
-y C % tcaulos Ante desto d<e>la fe-
-& d<e>los ssac<r><<a>>me<n>tos de s<anc>ta g-
-lia<n> com<m>o los o<ne>s deuos
-cre & rrec'ebir los ssegu<n>d lo
-% {R % o aa <a> ordenaro<n> los s<anc>tos pad<r><e>> q%
-Mas arora qu>riemos dez<ir> eneste d<e>las pssa-
-nas q<ue>los deue ffaz<er> entender la ffe & deue<n>
+blamos en la post<r><<i>>mera p<ar>tida deste lib<r><<o>>. {RUB. %
+T<itul><<o>> v<<o>> d<e>los p<er>lados de s<anc>ta egl<es>ia q<ue> ha<n> de e-
+most<r><<a>>r la ffe & dar los. Sac<r><<a>>me<n>tos}
+{IN6.} Fablado Auemos en los dos
+titulos Ante deste d<e>la fe
+& d<e>los ssac<r><<a>>me<n>tos de s<anc>ta eg-
+l<es>ia com<m>o los om<ne>s deuen
+crer & rrec'ebir los ssegu<n>d lo
+ordenaro<n> los s<anc>tos pad<r><<e>>s %
+Mas agora q<ue>remos dez<ir> eneste d<e>las p<er>sso-
+nas q<ue>les deue<n> ffaz<er> entender la ffe & deue<n>
 dar los ssac<r><<a>>me<n>tos % E estos sson los p<er>la-
-dos de s<anc>ta egl<es>ia q<ue>lo han de most<r><<a>>r & de p<re>do
-tar ssegu<n>d el ordenamje<n>to d<e>la Ley de n<uest>ro
-ssen<n>or ih<es>u x<pist><<o>>. q<ue> sson tenados de castigar
+dos de s<anc>ta egl<es>ia q<ue>lo han de most<r><<a>>r & de p<er>di-
+car ssegu<n>d el ordenamje<n>to d<e>la Ley de n<uest>ro
+ssen<n>or ih<es>u x<pist><<o>>. q<ue> sson tenudos de castigar
 los om<n>es d<e>los pecados q<ue> ffazen. por en-
-de q<ue>remos Aq<u><<i>> most<r><<a>>r por q<ue> n<n> Assi nonb<r><<a>>
-% E por q<ue> co<n>ujo<n> q<ue> fuessen enel lugar
-q<ue> tiene<n> % E q<ue> poder han % E com<m>o de
-ue ss<er> essleydos & Apostolados % E q<u><<a>>les
-deue ss<er> en ssi messmos & q<ue> cosas han de
+de q<ue>remos Aq<u><<i>> most<r><<a>>r por q<ue> ha<n> Assi no<n>b<r><<e>>
+% E por q<ue> co<n>uj<n>o q<ue> fuessen enel lugar
+q<ue> tiene<n> % E q<ue> poder han % E com<m>o de-
+ue<n> ss<er> essleydos & Apostolados % E q<u><<a>>les
+deue<n> ss<er> en ssi messmos & q<ue> cosas han de
 ffaz<er> por rrazon de ss<us> ofic'ios & q<u><<a>>les no<n> %
 E en q<ue> cosas pueden dispenssar co<n> Aq<ue>llos
 q<ue>los han de obedesc'er & en q<u><<a>>les no<n> % E
 q<ue> mayoria ha<n> los vnos ssobre los ot<r><<o>>s % E
-ssobre todo esto com<m>o deue ss<er> g<u><<a>>rdados & on-
+ssobre todo esto com<m>o deue<n> ss<er> g<u><<a>>rdados & on-
 rrados % E come<n>c'aremos p<r><<i>>m<er>ame<n>t<e> en<e>l A-
-postoligo q<ue> es mayor % E ssi fablaromos
-de todos los es cda vno por orden ssegu<n>d
+postoligo q<ue> es mayor % E ssi fablaremos
+de todos los ot<r><<o>>s cda vno por orden ssegu<n>d
 sson {RUB. % Ley p<r><<i>>m<er>a q<ue> q<u><<i>>er dez<ir> ob<is>po & q<ue>
-lugar tiene los ob<is>pos de s<anc>ta egl<es>ia}}
+lugar tiene<n> los ob<is>pos de s<anc>ta egl<es>ia}}
 [fol. 50v]
 {HD. T<itul><<o>>}
 {CB2.
-pelados e<n>to q<u>pa dez<ir> com<m>o deul<ecardos
-ss<er>en s<anc>ta egl<es>ia % E destos sson mas en
-jerrados los ob<is>pos % E mag<ue>r ya pu> o
-patarchas o p<r><<i>>mados o arc'obspos ssegu<n>d
-dize Adela<n>ce todos estos sson ob<is>pos com<m>o
-er q<ue> Aya<n> los nob<r><<e>>s de p<tidos % E ob<is>po ta<n>t
-q<u><<i>>er dez<ir> com<m>o guardador. ca ssjn ffalia e>
+{IN4.} Prelados ta<n>to q<u><<i>>ere dez<ir> com<m>o adela<n>tados
+en s<anc>ta egl<es>ia % E destos sson mas on-
+rrados los ob<is>pos % E mag<ue>r ya p<a>p<a> o
+pat<r><<i>>archas o p<r><<i>>mados o arc'ob<i>spos ssegu<n>d
+dize Adela<n>te todos estos sson ob<is>pos com<m>o q<u><<i>>-
+er q<ue> Aya<n> los no<n>b<r><<e>>s dep<ar>tidos % E ob<is>po ta<n>to
+q<u><<i>>er dez<ir> com<m>o guardador. ca ssjn ffalia el-
 los sson puestos p<ar>a g<u><<a>>rdar la fe catolica
-t q<ue> tiene lugar delos Apostales & eaq<u><<a>>l
-poder mjssmo q<ue> n<uest>ro ssen<n>or ih<es>u x<pist><<o>> h<e>s dio
-q<u><<a>>ndo les dixo todo lo ligared<e>s en t<ie>rra ss<er>ia
-ligado & en<e>l c'ielo & q<ue>o Absolujered<e>o ss<er>a A-
-bssuelto % E por ende sson Assi com<m>o pu-
+por q<ue> tiene<n> lugar delos Apostales & en aq<ue>l
+poder mjssmo q<ue> n<uest>ro ssen<n>or ih<es>u x<pist><<o>> l<e>s dio
+q<u><<a>>ndo les dixo todo lo ligared<e>s en t<ie>rra ss<er>a
+ligado & en<e>l c'ielo & q<u><<a>><n>to Absolujered<e>s ss<er>a A-
+bssuelto % E por ende sson Assi com<m>o pi-
 lares en s<anc>ta egl<es>ia ssobre q<ue> sse ssuffre la
-ffe. ca ellos sson tenudos q<ue> ot<r><<o>>s p<er>lados de
+ffe, ca ellos sson tenudos q<ue> ot<r><<o>>s p<er>lados de
 p<re>dicar & d<e>la most<r><<a>>r Alas gent<e>s & de lo de-
 ffender por rrazon u<er>dadera & derecha delos
-heregos & de todos Aq<ue>llos q<ue>la q<u><<i>>sieren gt<r><<a>>>d
-llar % E por esso dixo n<uest>ro ssen<n>or bos
-ssodr><e>s la luz d<e>l mu<n>do, ca Assi com<m>o la
+hereges & de todos Aq<ue>llos q<ue>la q<u><<i>>sieren <con>t<r><<a>>>-
+llar % E por esso dixo n<uest>ro ssen<n>or vos
+ssod<e>s la luz d<e>l mu<n>do, ca Assi com<m>o la
 luz Alu<n>bre & ffaz ver Alas q<ue> stan en
-Limje<n>bra. Assi la p<r>dicac'io<n> ffaz< entender
+tinjebra. Assi la p<re>dicac'io<n> ffaz entender
 & demuest<r><<a>> la u<er>dad Alos q<ue>la entienden
-% E avn les dixo ot<r><<a>> palabra vo ssodes
-ssal d<e>la t<ie>rra. ca la ssal de mayor ssobor A-
+% E avn les dixo ot<r><<a>> palabra vo[s] ssodes
+ssal d<e>la t<ie>rra. ca la ssal de mayor ssabor A
 las cosas en q<ue>la meten & las g<u><<a>>rda q<ue> no<n>
-sse dane<n> nj<n> sse ffaga<n> enellas gusanos
+sse dan<n>e<n> nj<n> sse ffaga<n> enellas gusanos
 & ssi los ffallare ffechos matar los ha %
 Ot<r><<o>>ssi las palab<r><<a>>s de dios dan Alos om<ne>s
-ssabor delo Amar & deg<u><<a>>rdar sse de ffaz<er>
-mal & mat<ur>a & no<n> dexa<n> ?ar Alos hereges
-& Alos q<ue> q<u><<i>>ere<n> danar la egl<es>ia % E por
+ssabor delo Amar & de g<u><<a>>rdar sse de ffaz<er>
+mal & mata<n> & no<n> dexa<n> c<r><<i>>ar Alos hereges
+& Alos q<ue> q<u><<i>>ere<n> dan<n>ar la egl<es>ia % E por
 este poder de dios q<ue> dio Alos Apostol<e>s
 en q<ue> les most<r><<o>> ta<n> g<r><<a>>nd Amor q<ue>l<e>s dixo q<ue>}
 {CB2.
-no<n> era<n>s sseuco<n> ms Ajgos & que ?-
-ergedes nj<n> Abenedizoo<e>s mas de ssu pos
-com<m>o Aq<ue>llos aq<u><<i>>en dio poder de ssaber la
-poridas d<e>los ss<us> ffechon> % E par la di-
-?
-?
-% E por ende deuenos elos cogu<n>s eu<er> se
-r<e<i>o & edes celos & onrrar los com<ne>s sf-
-q<ue> tocn<n> liga>r delos Apostales {RUB. % Ley
-% po>r q<ue> co<n>vjno q<ue> ffuesse el Apostoligo-
-s a ss onvjno por d<er>echa rrazo q<ue> q<u><<a>>ndo eor
-ss l ssen<n>or ih<es>u x<pist><<o>> q<ue> ssubio Alos c'ielos q<ue>
-? ssa<nc>t P<edr><<o>> a q<u><<i>>en Aujedado mayoria d<e>los
-abosal<e>s. & el poder de eselia & de lgan<na
-ffincasse en vn lugar del p<ar>a ffaz<er> g<u><<a>>rdar los ssi
-ma<n>damje<n>tos & ffaz<er> Alos om<n>es q<ue> vsende
-llos % Ca mag<ue>r la ffe q<ue> nos el dio es mos-
-s<anc>ta & muy noble en ssi p<ar>a ta<n>to es la ffa-
-za d<e>la nat<ur>a d<e>los om<ne>s q<ue> ssi no<n> oujessen
+no<n> era<n> ss<er>uos mas Amjgos & que no<n> era<n> hu-
+espedes nj<n> Abenedizos mas de ssu casa
+com<m>o Aq<ue>llos aq<u><<i>>en dio poder de ssaber las
+poridad<e>s d<e>los ss<us> ffechos % E por le dixo
+auos es dado el poder de conosc'er & de ente<n>-
+der co<n>plidame<n>t<e> la fuerc'a d<e>la palabra de dios
+% E por ende deuemos Alos ob<is>pos ten<er> por
+s<anc>tos & obedesc'elos & onrrar los com<m>o Aq<ue>llos
+q<ue> tiene<n> lugar delos Apostoles. {RUB. % Ley ij<<a>>
+por q<ue> co<n>vjno q<ue> ffuesse el Apostoligo}
+{IN3.} Convjno por d<er>echa rrazo<n> q<ue> q<u><<a>>ndo n<uest>ro
+ssen<n>or ih<es>u x<pist><<o>> q<ue> ssubio Alos c'ielos q<ue>
+ssa<nc>t P<edr><<o>> a q<u><<i>>en Auje dado mayoria d<e>los
+apostol<e>s. & el poder de Asoluer & de ligar q<ue>
+ffincasse en vn lugar del p<ar>a ffaz<er> g<u><<a>>rdar los ss<us>
+ma<n>damje<n>tos & ffaz<er> Alos om<n>es q<ue> vsen de-
+llos % Ca mag<ue>r la ffe q<ue> nos el dio es muy
+s<anc>ta & muy noble en ssi p<er>o ta<n>to es la ffraq<ue>-
+za d<e>la nat<ur>a d<e>los om<ne>s q<ue> ssi no<n> oujessen q<u><<i>>
 los g<u><<i>>sasse & les most<r><<a>>sse la carrera della
-pod<i>n errar de man<er>a q<ue>la bondad d<e>la ffe-
-no<n> d<e>ls tna p<r> d% Onde por esta rrazon fe-
-A ssa<nc>t p<ro> en ssu lugar & depu<e>s q<ue> el nurio
+pod<r><<i>>an errar de man<er>a q<ue>la bondad d<e>la ffe
+no<n> l<e>s t<er>na p<ro> % Onde por esta rrazon fizo
+A ssa<nc>t P<edr><<o>> en ssu lugar & depu<e>s q<ue> el murio
 ffue menest<er> q<ue> oujesse y ot<r><<o>>s q<ue> toujessen
 ss<us> vezes de g<u><<i>>sa q<ue> ssienp<re> y oujesse vno
-en q<u><<i>>en ffjncasse ssn poder. & este es Assi-
-llama<n> Apostoligo o p<r><<a>>. {RUB. % Ley q<ue> onrra &
-q<ue> poder ha el p<a>p<a> mas q<ue>los ot<r><<o>>s ob<is>pos
-postoligo de rroma ob<is>po es ta<n> bie<n>
-com<m>o vno d<e>los ot<r><<o>>s Assi com<m>o es dia
-ay en la ley t<er>c'era Ant<e> desta % P<er>o nos q<ue>
-renos Aq<u><<i>> most<r><<a>>r por q<ue> es Assi lliamado & q<ue> -
-der & q<ue> onrra<><<a>>mas q<ue>los ot<r><<o>>s % E por ende
+en q<u><<i>>en ffjncasse ssu poder. & este es A q<u><<i>>en
+llama<n> Apostoligo o p<a>p<a>. {RUB. % Ley iij<<a>> q<ue> onrra &
+q<ue> poder ha el p<a>p<a> mas q<ue>los ot<r><<o>>s ob<is>pos}
+{IN2.} Apostoligo de rroma ob<is>po es ta<n> bie<n>
+com<m>o vno d<e>los ot<r><<o>>s Assi com<m>o es di-
+cho en la ley t<er>c'era Ant<e> desta % P<er>o nos q<ue>-
+remos Aq<u><<i>> most<r><<a>>r por q<ue> es Assi llamado & q<ue> po-
+der & q<ue> onrra <<ha>> mas q<ue>los ot<r><<o>>s % E por ende
 dizjmos q<ue> Apostoligo ta<n>to q<u><<i>>ere dez<ir> com<m>o
 q<ue> tiene lugar del Apostol % E com<m>o q<u><<i>>er q<ue>los}
 [fol. 51r]
 {HD. v<<o>>}
 {CB2.
-?
-no Auemos dicho por q<ue> este tiene lig-
-t ssen<n>aladame<n>t<e> de ssa<nc>t P<edr><<o>> q<u><<i>>endios A-
+ot<r><<o>>s ob<is>pos ssean en lugar de Apostol<e>s. Assi co-
+m<m>o Auemos dicho. por q<ue> este tiene lug-
+ar ssen<n>aladame<n>t<e> de ssa<nc>t P<edr><<o>> A q<u><<i>>en dios A-
 delanto ssobre los ot<r><<o>>s Apostoles & no<n> Alos
-% Ca magu<er n<uest>ro ssen<n>or dios dixe
-Atodos los Apostoles q<ue>los ffaria ss<er> pesta
-dores d<e>los om<ne>s & q<ue> echassen ss<us> bedes en
-la mar q<ue> q<u><<i>>er ta<n>to dez<ir> com<m>o cabo q<ue> q<u><<i>>-
+ot<r><<o>>s % Ca maguer n<uest>ro ssen<n>or dios dixo
+Atodos los Apostoles q<ue>los ffaria ss<er> pesca-
+dores d<e>los om<ne>s & q<ue> echassen ss<us> Redes en
+la mar. q<ue> q<u><<i>>er ta<n>to dez<ir>. com<m>o cabo q<ue> p<r><<e>>-
 ndieren los pecador<e>s co<n> p<re>dicac'ion<e>s & q<ue>los
-ssacarie<n> d<e>los pecador<e>s co<n> ella & Assi com<m>olos
-pecadores ssacaren pestado d<e>la mar co<n>-
-rred % Cn todo esso A ssa<nc>t p<edr><<o>>. mando sse
-n<n>alada me<n>t<e> q<ue> l<n>s g<u><<i>>sasse en Alto en q<ue>
-muest<r><<a>> q<ue>le dio Adelatamje<n>to ssobre to-
-dos los ot<r><<o>>s. & ffue g<r><<a>>nd derecho en A de
-la<n>tar lo ca el misssmo sse adelanto q<ue> no<n>
-dixo an<uest>ro ssen<n>or % E uer x<rsian>o>> ffijo de
-dios vjuo. & por esso rrespondio diaos
-Ael. tu eres. p<er> q<ue> q<u><<i>>er ta<n>to dez<ir> com<m>o ffij-
-me en la crenc'ia por q<ue> creo ssjn nj<n>gu<n>a
+ssacarie<n> d<e>los pecador<e>s co<n> ella. Assi com<m>o los
+pe<<s>>cadores ssacaren pescado d<e>la mar co<n>
+rred % Con todo esso A ssa<nc>t P<edr><<o>> mando sse-
+n<n>alada me<n>t<e> q<ue> los g<u><<i>>(^s)asse en Alto en q<ue>l
+muest<r><<a>> q<ue>le dio Adela<n>tamje<n>to ssobre to-
+dos los ot<r><<o>>s. & ffue g<r><<a>>nd derecho en Ade-
+la<n>tar lo ca el mjssmo sse adelanto q<ue> no<n>
+dixo an<uest>ro ssen<n>or % Tu eres x<pist><<o>> ffijo de
+dios vjuo. & por esso rrespondio dios
+Ael. tu eres. P<edr><<o>> q<ue> q<u><<i>>er ta<n>to dez<ir> com<m>o ffir-
+me en la crenc'ia por q<ue> cree ssjn nj<n>gu<n>a
 dubda. & otorgo q<ue> era ffijo de dios % E
-ot<r><<o>>ssi Ael dixo. tu ss<er>as llamado cephas
+ot<r><<o>>ssi Ael dixo. tu ss<er>as llamado {GRK. cephas}
 q<ue> q<u><<i>>er ta<n>to dez<ir> com<m>o cabec'a % Ca Assi
 com<m>o la cabec'a es ssobre todos los ot<r><<o>>s mj-
-enb<r><<e>>s Assi s<anc>t <e<r> ffue ssobre todos los A-
+enb<r><<o>>s Assi s<anc>t P<edr><<o>> ffue ssobre todos los A-
 tostolos & por esso es llamado cabdiello
 dellos % E por ende el Apostoligo q<ue> tiene
-el lugar de ssa<nc>t P<edr><<o>> es cabec'a de todoslos
+el lugar de ssa<nc>t P<edr><<o>> es cabec'a de todos los
 ot<r><<o>>s ob<is>pos Assi com<m>o lo fue ssa<nc>t P<edr><<o>> de tod-
 os los Apostoles % E com<m>o q<u><<i>>er q<ue> cada
 vno ob<is>po tenga lugar de n<uest>ro ssen<n>or ih<es>u x<pist><<o>>
-& ssea vicario del ssobre Aq<ue>llos q<ue>le sson da}
+& ssea vicario del ssobre Aq<ue>llos q<ue>le sson da-dos}
 {CB2.
-dos en ssu ob<is>pado p<ar>a Au<e>r poder de llegar & de
+en ssu ob<is>pado p<ar>a Au<e>r poder de llegar & de
 Abssoluer el Apostoligo es vicario ssen<n>ala-
-do de ih<es>u x<pist><<o>> en todo el mu<n>do {RUB. % Ley iij<<a>>.
-rre dez<ir>
-% a a>l ta<n>to q<u><<i>>er dez<ir> ha non>b ot<r><<o>>ssi
+do de ih<es>u x<pist><<o>> en todo el mu<n>do {RUB. % Ley iiij<<a>>
+q<ue> q<u><<i>>er dez<ir> p<a>p<a>.}
+{IN5.} Papa (^ta<n>to q<u><<i>>er dez<ir>) ha no<n>bre ot<r><<o>>ssi
 el Apostoligo q<ue> q<u><<i>>er ta<n>to dez<ir> en
-g<r><<>>go com<m>o padre d<e>los pad<r><<e>> % E e-
+g<r><<i>>ego com<m>o padre d<e>los pad<r><<e>>s % E e-
 sto es por q<ue> todos los ob<is>pos sson llama-
 dos pad<r><<e>>s sp<irit>uales & el es ssobre todos &
-por esso le llama<n> Assi % Ca me> com<m>o el poder
-q<ue> es en todos las cosas del mu<n>do sse Ahyu-
-ta & sse Affirma<n> en dios & del lo Rec'iben %
-Ot<r><<o>>ssi todo el poder q<ue> han los x<r><<i>><sti>anos p<er>la
-os de s<anc>ta egl<es>ia sse ayu<n>ta & sse Affirma-
-en el p<r><<a>> & del les vjene % E por esso -
-viene q<ue> estos nonbr<e>s p<aro> & Apostoligo sse A-
-xu<n>ta en vna p<er>sona q<ue> fuesse cabec'a de co-
+por esso le llama<n> Assi % Ca bie<n> com<m>o el poder
+q<ue> es en todos las cosas del mu<n>do sse Ayu<n>-
+ta<n> & sse Affirma<n> en dios & del lo Rec'iben %
+Ot<r><<o>>ssi todo el poder q<ue> han los (^x<r><<i>><sti>anos) p<er>la-
+dos de s<anc>ta egl<es>ia sse ayu<n>ta<n> & sse Affirma<n>
+en el p<a>p<a> & del les vjene % E por esso <con>-
+viene q<ue> estos no<n>br<e>s p<a>p<a> & Apostoligo sse A-
+yu<n>ta<n> en vna p<er>sona q<ue> fuesse cabec'a de to-
 dos los ot<r><<o>>s p<er>lados Assi com<m>o es dicho %
 Onde por todas estas rrazones de el Apo-
-spalgo mucho onrrado & gu><<a>>dado com<m>o qe>
-q<ue>l q<ue> es padre d<e>las Almas & ssen<n>or & ma-
-tenedor d<e>la ffe % E por essto todos ls t<r><<i>>-
+stoligo mucho onrrado & g<u><<a>>rdado com<m>o A-
+q<ue>l q<ue> es padre d<e>las Almas & ssen<n>or & ma<n>-
+tenedor d<e>la ffe % E por esso todos los x<r><<i>><sti>-
 anos del mu<n>do q<u><<a>>ndo viene<n> Ael p<r><<i>>m<er>ame<n>t<e> le
 deue<n> besar el pie % Onde q<u><<a>>l q<u><<i>>er q<ue> dixj-
-esse Ap<r><<i>>mado o q<u><<i>>en le c<r><<e>>e. q<ue> el p<a>p<a>> no<n> ha e-
-stos poder<e>s q<ue> Auemos dicho. q<ue> no<n> es cabe
-ca d<e>la s<anc>ta egl<es>ia ssin lo q<ue> es descon<e>lgado
-deue Au<e>r tal pena por ello com<m>o herege-
-con<n>osc'ido. {RUB. % Ley v<<a>> en q<ue> cosas ha ma-
-yorias el Apostoligo ssobre los ot<r><<o>>sob<is>pos
-p<er>lados de stanc>ta egia.}
-ayorias ha <l Apostoligo<n> ssobe<n> los
-ot<r><<o>>s oos en poder & en ffechos ca el
-s% E le los rrede condo destoen<n> go<n> e io}
+esse Ap<r><<i>>mado o q<u><<i>>en le c<r><<e>>e. q<ue> el p<a>p<a> no<n> ha e-
+stos poder<e>s q<ue> Auemos dicho. q<ue> no<n> es cabe-
+c'a d<e>la s<anc>ta egl<es>ia ssin lo q<ue> es descom<u>lgado
+deue Au<e>r tal pena por ello com<m>o herege
+conosc'ido. {RUB. % Ley v<<a>> en q<ue> cosas ha ma-
+yorias el Apostoligo ssobre los ot<r><<o>>s ob<is>pos
+& p<er>lados de s<anc>ta egl<es>ia.}
+{IN3.} Mayorias ha el Apostoligo ssobre los
+ot<r><<o>>s ob<is>pos en poder & en ffechos ca el
+les puede cada <<hora>> desponer q<ue> el les}
 [fol. 51v]
 {HD. T<itul><<o>>}
+Â¶
 {CB2.
 ffiziere<n> por q<ue>. & despu<e>s tornar los. ssi q<u><<i>>sie-
 re a Aq<ue>l stado en q<ue> Ant<e> era<n> % Ot<r><<o>>ssi pue-
@@ -7058,7 +7058,7 @@ po por ellos q<ue> ssean Adano de ss<us> Almas
 las ygl<es>ias & co<n> los delas ot<r><<o>>s q<ue> no<n> sson-
 de bendic'io<n> & co<n> los njn>os q<ue> no<n> ssern-
 de hedat q<ue> puedan rrec'ebir ordenes
-ssat<r><<a>>das & Auer veneffic'ios & deiguda}
+ssag<r><<a>>das & Auer veneffic'ios & deiguda}
 {CB2.
 dos en sanc>t egl<es>ia % E el pede sfaz<er> on>ele ca-
 n<er>al q<u><<a>>ndo q<u><<i>>siere en q<ue> han de ss<er> todos loa
@@ -7174,7 +7174,7 @@ b<is>po q<ue>los ordene. com<m>o q<u><<i>>er q<ue> en la ley-
 Ante desta diga q<ue>lo puede faz<er> ssi q<u><<i>>siere<n>
 % On ot<r><<o>>ssi no<n> es vso de dispenssar co<n> los
 q<ue> ffazen omjiello de ssu g<r><<a>>do {RUB. % Ley vj<<a>>
-com<m>o sse deue fazer la elec'io<n> d<el><a>>-
+com<m>o sse deue fazer la elec'io<n> d<e>l p<a>p<a>
 Janta me<n>t<e> deue ss<er> fecha la ele-
 io del p<a>p<a>. Ant<e> bie<n> con<nm>o de ot<r><<o>>
 ob<is>po % Ca magu<e>r q<ue> el Aya todos estos
@@ -7322,7 +7322,7 @@ genal con ss<us> Algas q<ue> ssi debada Acnestie-
 re ent<ue>llos ssobre Algu<n> ffecho q<ue> deue<n> dema<n>-
 dar co<n>c'ilio. Al pacarta o Al p<r><<i>>mado & el pue-
 de stablesc'er o ma<n>dar ssobre Aq<ue>lla dubda
-com<m>o ssea % E la v<<<a>> es q<ue> ssi el p<r><a>>ata>rca
+com<m>o ssea % E la v<<<a>> es q<ue> ssi el p<r><<a>>ata>rca
 o el p<r><<i>>mado ssopiere q<ue>l arc'ob<is>po no<n> ha cuda
 do de castigar o de ffaz<er> emendar los py-
 rros q<ue> ffazen en ssu p<ro>uja<c'ia q<ue>lo puede el
@@ -7339,7 +7339,7 @@ ma<n>dado q<ue> el missmo lo pueda ssoltar}
 {CB2.
 % L <n> om<>a os q<ue> ssuze brane<n>s e dee
 gia cosa q<ue> no<n> ssen dare<<>>mantar sa
-me<n>t<e> qo><r><>alos ob<is>po ot<r><o>>q<>><> q<u><<i>>e oos
+me<n>t<e> qo><r><>alos ob<is>po ot<r><<o>> q<ue> q<u><<i>>e oos
 cha poder % E Aq<ue>l ssnciendosse por A e-
 ado sse Alc'a. A b<r><<a>> & Ant<e> q<ue> ssgu<n>a el A-
 c'da vjnjene Al patarta ol p<r><<i>>nado & sse<n>
@@ -7500,8 +7500,8 @@ q<ue> ellos no<n> podr<r><<i>>n co<n>plir {RUB. % Ley .xvj<<a>>.
 Neque<n> qujer dezir ob<is>po & por que conv-
 y no que ffuesse & que lugar tiene<n>
 u sb<in>pos ta<n>to & que poder ha
-q<><iene dez<ir> com<m>o ssobre enten-
-cjmje<n>to % E esto es por q<ue> ha
+q<u><<i>>ere dez<ir> com<m>o ssobre enten-
+djmje<n>to % E esto es por q<ue> ha
 g<>> de<e> etender ssobre todos los de ssu ob<is>pa do
 en g<r><<a>>ardar las Ala<n>ag & pod<><<i>>er ssobre los q<ue>l-}
 [fol. 55r]
@@ -7690,7 +7690,7 @@ vida o de mal testjmn>jo o dado por malo
 por ffecho q<ue> ffiziesse. o por juygio <con>t<r><<a>> el Al
 q<ue> oujesse poder de Judgar % E esto por que
 cada vna destas cosas ss<er>ia mal en ffamado
-{RUB. % Ley xx<<a>> & ij<<a>> q<>uales non deue<n> ss<er>
+{RUB. % Ley xx<<a>> & ij<<a>> q<u><<a>>les non deue<n> ss<er>
 elendos p<ar>a ob<is>pos.
 rad ena me<n>t<e> sseyendo yo>u>tido Algu<n>o
 side ot<r><<a>> ey no<n> lo deue<n> ffaz<er> ob<is>po
@@ -7772,7 +7772,7 @@ ssu por o Aot<r><<o>> ssu mayoral de Aq<ue>lla orden
 donde ffue. {RUB. % Ley x<<a>> & v<<a>> p<ar>a sser la
 postulac'ion verdadera q<u><<a>>ntos deue sser
 osistordia Alo menos los postulads
-ss<i nast'e Alas voegadas eneroe p<e>-
+ss<i naste Alas voegadas eneroe p<e>-
 cabil<>o q<u><<a>>ndo ha de ffaz<er> ob<is>po de-
 man<er>a q<ue>los vnos ssleen vno & los ot<r><<a>>s t<r><<i>>
 % E por ende touo por bie<n> ssa eggl<es>ia
@@ -7871,17 +7871,17 @@ ssa<nc>t Joh<a>n ss<eu h<er>ano q<ue> ffuero<n> fijos d<e>l
 zebedeo % E por esta rrazon q<ue> ssean
 y t<r><<e>>s ob<is>pos & no<n> mas % E la <con>ssag<r><<a>>c'on
 deue ss<er> fecha. curta me<nt<r<<e> por q<ue> ssi Algu<n>
-lo q<u><<i>>siere c<r><a>>dez<eir> q<ue> ssea Ant<e> oydo q<ue>lo <con>ssa-
+lo q<u><<i>>siere c<r><<a>>dez<eir> q<ue> ssea Ant<e> oydo q<ue>lo <con>ssa-
 g<r><<i>>en ssob<r><<e> aq<ue>llas rrazon<e>s de q<ue>lo q<u><<i>>siere
 Acusar % E ssi Ant<e> q<ue> el plepto ssea
-lib<r><<a>>do lo <con>ssagr><a>>en o lo ma<n>daren <con>ssag<><<i>-
+lib<r><<a>>do lo <con>ssag<r><<a>> en o lo ma<n>daren <con>ssag<><<i>-
 aq<ue>l ssu mayoral los ot<r><<a>>s han de p<er>der
 los ob<is>ados ta<n> bie<n> el Acusado com<m>o A
 q<ue>llos q<ue>lo <con>ssagr<a>>on % E la <con>ssag<r>cion}
 deue ss<er> ffecha en la egl<es>ia d<e>la p<ro>uj<n>c'ia}
 {CB2.
 o coujene por bie<n> aq<ue>l q<ue>lo ha de ffaz<er> % Ca
-los Pat<<a>>ras & los pr><i>>mr>ados & los Atan>br>os
+los Pat<<a>>ras & los p<r><<i>>mados & los Atan>br>os
 q<ue> no<n> ha<n> ot<r><<a>> mayorale ssobre ssi no<n> los de
 ue <con>ssag<r><<a>>r ssi no<n> el p<>p<a>> o q<u><<i>>en el madare
 ssegu<n>d costu<n>bre q<ue> vsa la egl<es>ia de rroma
@@ -7966,7 +7966,7 @@ Sa<n>t p<dr><<>>aia lo que el que han de or-
 denar cara ob<is>po que deue sser ssjn pe-
 esacordaron Algu<n>os natado.
 en p<r>p<a>> & est<r><<o>>s del derecho ssobre la pala-
-Sg<u><a>>bra q<ue> dixo ssa<nc>t paunlo q<ue> deue
+bra q<ue> dixo ssa<nc>t paunlo q<ue> deue
 ss<er> ssjn pecado mortal el q<ue> q<u><<i>>siessen
 ordenar p<ar>a e ob<is>po % Ca tal<e>s y ouo
 q<ue> dixero<n> q<ue> el oen> q<ue> pecaua<n> mortal
@@ -8019,9 +8019,9 @@ Abre el cecado mortal q<ue> ffablo ssege<n>do
 erdadera me<n>t<e> & co<n> rrapaulo
 zon entendiero<n> Algu<n>os la pale-
 b<r><<a>>q<ue> dixo ssa<nc>t panlo % E por
-q<> cento<n>s sf z<ereren deyamjento en q<ue> las po-
+q<ue> entonc'e sf z<ereren deyamjento en q<ue> las po-
 dos muy g<r><a>ndes & mechanos & men<n>
-no<n>b<r><<a>>ndo de c><a>>ncas man<ner>as sson ssegu<n>d
+no<n>b<r><<a>>ndo de ? man<ner>as sson ssegu<n>d
 diz Adelante % E dixero<n> q<ue> el q<ue> fizo
 pecado muy g<r><<a>>nde ant<e> q<ue> ffuesse op<ier>a
 q<u><<i>>er fuesse encubierto. oma<n>jffiesto
@@ -8074,7 +8074,7 @@ t<ien>po. Sac<r><<i>>egio & p<er>juraa & Rebi dez<ir> co<n>t<-
 muada me<n>t<e>. engann>o de dicho o de ffec-
 q ho de q<ue> vjene mal a ot<r><<o>> % P<er>o ssi Al-
 gu<n>o ffaz destos pecados medjanos q<ue>
-nob<r><<a>>mos en esta ley & lo con<n>ost'e de si-
+nob<r><<a>>mos en esta ley & lo con<n>osce de si-
 g<r><<a>>do en pleyto p<ar>a ffaz<er> emjenda del
 no<n> lo deue<n> despon<e>. mas deuel dar
 a ssu mayoral penj<tenc'i>a q<u><<a>>l entendjere q<ue>
@@ -8178,7 +8178,7 @@ en comer & en beuer & en guardar sse muy
 de comer ademas & de beuer de man<er>a q<ue>
 sse torne<n> en bebdez<ir> por q<ue> este es vno
 d<e>los mast<r><<a>>mn<nos pecados q<ue> puede ssenr
-ca por el descon<n>ost'e om<n>e a dios & Assi
+ca por el descon<n>osce om<n>e a dios & Assi
 messmo & ssi a todas las ot<r><<a>>s cosas qa-
 sson mas Ayna q<ue> por ot<r><<o>> % Ca ssegu<n>d
 dixero<n> los ssabios el vjno es carrera q<ue>
@@ -8250,7 +8250,7 @@ astos & vergocosos deue<n> goncoses
 Ca aq<ue>llos q<ue> co<n> ss<us> manos han de <con>ssag<r><<a>>r
 el cuerpo de n<uest>ro ssen<n>or ih<es>u x<pist><<o>>. & lo h<n>a de
 rrec'ebir en ssi messmos & ha de dar los
-otr<<o>>s ssac>me<n>tas de S<anc>ta egl<es>ia mucbho ch<e>l
+otr<<o>>s ssac<r><<a>>me<n>tos de S<anc>ta egl<es>ia mucbho ch<e>l
 ene q<ue> Aya<n> en ssi castidat & ljnpiadubre
 % E ot<r><<o>>ssi deuen ant<e> u<e>guenc'a. ca ssa-
 la oujeren ssienp<re> sse g<u><<a>>rdara<n> de ffaz<er> pe-
@@ -8541,14 +8541,14 @@ chas & buenas q<ue>las diga<n> muchas vezes
 calab<r><<a>>s pierden Alas vezes ssu fuerc'a q<u><<a>>ndo
 los q<ue>la dizen entienden q<ue> no<n> sson dichas
 co<n> rrecabdo % Ot<r><<o>>ssi el q<ue> p<re<e>>dicaa. no<n> deue
-ffaz<er> ent'ender la g<r><<a>>matica Al pueblo com<m>o
+ffaz<er> entender la g<r><<a>>matica Al pueblo com<m>o
 en man<er>a de emost<r><<a>>r gela nj<n> deue<n> ot<r><<o>>ssi
 te<n>ptar q<u><<a>>ndo ss<er>monare nj<n>gu<n>a d<e>las ffablee
 llas q<ue> en los lib<r><<o>>s d<e>la ga>>mnatica ffizieron
 los geneles nj<n> ot<r><<a>>s cosas ssemeja<n>tes destas
 en q<ue> Alaba ssu c<r><<e>>c'ia d<e>llos % Ca no<n> e g<u><<i>>s-
 ado q<ue> en los ss<er>mon<e>s q<ue> ffiziesse<n> Alaben ssu
-c<r><<e>>nt'ia nj<n> d<e>las ot<r><<a>>s gent>s co<n> la de n<uest>ro ssen<n>or
+c<r><<e>>ncia nj<n> d<e>las ot<r><<a>>s gent>s co<n> la de n<uest>ro ssen<n>or
 ih<es>u x<pist><<o>>. % E estas cosas vedo S<anc>ta egl<es>ia
 por q<ue> Algu<n>os t<ien>pos fueron en q<ue>las ffiziero<n>
 & vinje ende dan<n>o {RUB. % Ley .xL<> & v<<a>> q<ue>
@@ -8642,7 +8642,7 @@ spru>tac'ion<e>s por q<ue>los hereges no<n> paran
 mjent<e>s a ot<r><<o>> cosa ffueras ende Anra
 c<r><<e>>c'ia rrep<rn>der & dan<n>ar la ffalssa me<n>t<e>
 q<u><<a>>nto pudieren diziendo palab<r><<a>>s ssot<e>l<e>s
-& Aguidar p<ar>a los desent'endudos. {RUB. % Ley
+& Aguidar p<ar>a los desentendudos. {RUB. % Ley
 xx<r><<a>>& vij<<e>> q<u><<a>>les p<er>lados no<n> ssea<n> en cul-
 pa<n> ssi los menor<e>s no<n> sse q<u><<i>>sieren em-
 endar pues q<ue>les castigan & les p<re>di-
@@ -8786,7 +8786,7 @@ sp<e>c'ian por ello assi com<m>o sse muest<r><<a>>n por
 las palab<r><<a>>s d<e>los ssabios q<ue> de muy g<r><<a>>nd
 Affuziamje<n>to ent<r><<e>> los ssen<n>or<e>s & los va-
 ssallos nasc'e desp<r><>c'iamje<n>to Al ssen<n>orio %
-E por ende el p<er>lado c<r><<i>>st'er deue por ssu sa-
+E por ende el p<er>lado c<r><<i>>ster deue por ssu sa-
 bidoria & la onrra de ssu dignjdad por q<ue>
 no<n> ssea desp<re>c'iado {.% Ley com<m>o el p<er>lado
 no<n> deue castigar q<ue> nasta escandol g<u><<>>-
@@ -9350,7 +9350,7 @@ ss> p<ar>lados de dispo<n>ssar co<n>spenssar
 los cl<er>jgos. q<ue> cuedan rrec'ebir much<as a-
 dn<n> en vn dia ffueras en de de aq<ue>llos
 q<ue> llama<n> q<u><<a>>tro g<r><<a>>dos. p<er>o bie<n> pueden dispen-
-sar o<><a>>s den<n>s q<ue>las oujessen rrec'ebiados
+sar ? den<n>s q<ue>las oujessen rrec'ebiados
 a ot<r><<o>>ssi no<n> pueden co<n> dispenssar co<n> aq<ue>ll
 os q<ue> lon dize q<ue>>ro an<n>os por q<ue> Ayan dign-
 <er> pp<is>uases o benestic'ios co<n> cura de
@@ -9376,7 +9376,7 @@ ssi el no<n> las rrec'ibiesse nj<n> aq<ue>llos q<ue> sse o-
 senassen ffuessen ssabidor<e>s de aq<ue>lla ss<us>
 monja bie<n> lo pod>an ffaz<er> desq<ue> el cl<er>jgo la
 orden p<ro>metiesse ssn nj<n>gu<n>a co<n>dic'ion de>
-muq<> qusar della % E otrossi no<n> puede di-
+? qusar della % E otrossi no<n> puede di-
 spenssar co<n> aq<ue>llos q<ue> ffuessen mal en ffama-}
 {CB2.
 dos por Algu<n> ffecho desag<u><<i>>sado. delos q<ue> dize en
@@ -9471,7 +9471,7 @@ ria Alos vnos ssob<r><<e>> los ot<r><<o>>s & pusol<e>s no-
 bre>s ssegu<n>d ss<us> ofic'ios % Onde Assemesa
 ce desto ordenaro<n> los s<anc>tos pad<r><<e>>s en la egl<es>ia
 crenal y ordena de cl<er>jgos & diero<n> may
-oria Alos vnos ssobre los ot<r><a>>s. & pusiero<n>
+oria Alos vnos ssobre los ot<r><<a>>s. & pusiero<n>
 les nonbr<e>s ssegu<n>d aq<ue>llo q<ue> han de ffaz<er>
 esto ffue ffecho por tr<e>s rrazones % La p<r><<i>>n-
 era por q<ue> bie<n> Assi com<m>o los Angeles lo
@@ -9484,7 +9484,7 @@ mayoria los menor<e>s Alos mayor<e>s & les
 ffuessen obedient<e>s & oujessen ssube<n> ffaz<er>
 E los mayor<e>s q<ue> amassen ass<us> menos
 ss<er>ujendo sse d<e>llos & Anpabllos en ssu derec'a
-% Ca estos g<r><<a>>nd<e>s de ordet'i< llama<n> b>lm<>a}
+% Ca estos g<r><<a>>nd<e>s de ordenes llama<n> b>lm<>a}
 [fol. 69r]
 {CB2.
 erenedo % E Al <<o>> v<estiario % E Aij<>
@@ -9660,7 +9660,7 @@ oras % Segu<n>d lo han de costu<n>bre {RUB. % Ley
 l<i>q<a> q<u><<i>>er dez<ir> chant<r><<e>> o co<napistol o pr>i>mjzen>
 rio o q<u><<a>>l es el offic'io<n> d<e>llos.
 hant<r><<e>> ta<n>to q<u><<i>>eue dez<ir> com<m>o ca<n>tor
-j<> q<ue> p<er>tenest'e Assu ofic'io de com<n>e
+j<> q<ue> p<er>tenesce Assu ofic'io de com<n>e
 car los rresponssos ca<n>tos & los ymos &
 las ot<r><<a>> cados q<ue> oujchn de ca<n>tar ta<n> bie<n> en
 los co<n>tar<ne>s q<ue> ffiziere> en<e>l coro com<m>o en las
@@ -9681,7 +9681,7 @@ enel coro & enel comecar d<e>los cantos p<ar>a
 ordenar & ma<n>dar Alos ot<r><<o>>s com<m>o ca<n>ten
 & anden vonesta me<n>t<e> en los p<r>cesion<e>s
 % E la mayoria desta digujdat sse pue-
-de mejor ent'ender por las costu<n>bres
+de mejor entender por las costu<n>bres
 vsadas d<e>las egl<es>ias q<ue> por ot<r><<o>> derecho
 sc<r><<i>>pto. {RUB. % Ley .vj<<a>> q<ue> q<u><<i>>er dez<ir> Aesorero
 o q<u><<a>>l es el ofic'io dellos }
@@ -9711,11 +9711,11 @@ nesc'e Asu offic'io de dar maest<r><<o>> Al
 as egl<es>ias q<ue> muest<r><<a>>n Alos menor<e>s leer & coa<n>
 tar & el deue eme<n>dar los bib<r><<a>>s en q<ue> leeen
 la gl<es>ia % Ot<r><<o>>ssi Al q<ue> leyere en<e>l coro q<u><<a>>ndo
-errare % E Avn a ssu ofic'io p<er>tenest'e de star
+errare % E Avn a ssu ofic'io p<er>tenesce de star
 dela<n>te q<ue> d<n>s p<ro>uaren Alos scolares en las ziv-
 dad<e>s o sson los studios ssi sson ta<n> let<r><<a>>dos q<ue> me-
-st'en ss<er> otorgados por maest<r><<o>>s d<e>la g<r><<a>>natica
-o de log<r><i>>a. o de Algu<n>os d<e>los ot<r><<o>>s ssaber<e>s &
+scen ss<er> otorgados por maest<r><<o>>s d<e>la g<r><<a>>matica
+o de logica. o de Algu<n>os d<e>los ot<r><<o>>s ssaber<e>s &
 Alos q<ue> entendieren q<ue>lo m<er>esc'en puede l<e>s
 otorgar q<ue> lean assi com<m>o maest<r><<o>>s & essa mj-
 sma digundat llama<n> en Algu<n>os lugares.
@@ -9793,7 +9793,7 @@ b<s>s en Affuera % E Avn han este no<n>bre
 por ot<r><<a>> rrazon & este es por q<ue> Aq<ue>llos sson
 dadr<e>s d<e>los ssac<r><<a>>me<n>tos de S<anc>ta egl<es>ia &
 dellos los rrec'iben los x<r><<i>><sti>anos ffueras ende
-q<ue>la <con>firmac'io<n> q<ue> no<n> p<er>tenest'e Aot<r><<o>> d<e>la dar
+q<ue>la <con>firmac'io<n> q<ue> no<n> p<er>tenesce Aot<r><<o>> d<e>la dar
 ssi no<n> Alos p<er>lados % E Avn enel t<ien>po Antj-
 go Alos p<er>lados ob<is>pos p<re>st<e>s los ssolian llam-
 a % P<er>o este no<n>bre de p<re<i>>te o de ssac<er>dote
