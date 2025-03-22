@@ -1,9 +1,17 @@
 cff-version: 1.1.0
-message: "Si usa estas transcripciones, por favor, cítelas usando las indicaciones del archivo README.md."
+message: "If you use these transcriptions, please cite them following the instructions in the README.md file."
 authors:
   - family-names: Mario
     given-names: Cossío Olavide
     orcid: https://orcid.org/0000-0002-1447-3891
-title: «[Título de la obra], transcripción semipaleográfica», Transcripciones varias.
+title: "Various Transcriptions.""
+publisher: GitHub
+repository: https://github.com/mario-cossio/Various-Transcriptions/
+license: MIT
+keywords:
+  - "semi-paleographic transcription"
+  - "Castilian manuscripts"
+  - "medieval studies"
+  - "Hispanic Seminary of Medieval Studies"
 version: 0.1
-date-released: 2023-07-19
+date-released: 2025-03-23
