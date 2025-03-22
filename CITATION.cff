@@ -4,14 +4,10 @@ authors:
   - family-names: Mario
     given-names: Cossío Olavide
     orcid: https://orcid.org/0000-0002-1447-3891
-title: "Various Transcriptions.""
+title: "Various Transcriptions."
+version: 2025.03.22
+date-released: 2025-03-22
 publisher: GitHub
 repository: https://github.com/mario-cossio/Various-Transcriptions/
 license: MIT
-keywords:
-  - "semi-paleographic transcription"
-  - "Castilian manuscripts"
-  - "medieval studies"
-  - "Hispanic Seminary of Medieval Studies"
-version: 2025.03.23
-date-released: 2025-03-22
+doi: https://doi.org/
