@@ -1,4 +1,4 @@
-# Various Transcription
+# Various Transcriptions
 
 This repository contains several semi-paleographic transcriptions of Castilian manuscripts, carried out according to the [transcription system](http://www.hispanicseminary.org/manual-en.htm) of the [Hispanic Seminary Of Medieval Studies](http://www.hispanicseminary.org/). The textual data of these transcriptions is included in the [Old Spanish Textual Archive](http://osta.oldspanishtextualarchive.org/).
 
